@@ -22,7 +22,7 @@ jobs:
         run: pip install requests beautifulsoup4 ics
 
       - name: Run scraper
-        run: seminarcal_scraper.py   # adjust to your actual filename
+        run: python seminarcal_scraper.py
 
       - name: Commit and push if changed
         run: |
