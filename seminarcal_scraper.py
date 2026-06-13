@@ -115,8 +115,7 @@ def extract_series_and_organizers(
 # ---------- Parsing ----------
 
 # Type alias for the seminar data dict
-type SeminarDict = dict[str, str | datetime | bool | list[str] | None]
-
+SeminarDict = dict[str, str | datetime | bool | list[str] | None]
 
 def parse_seminar_card(card: Tag) -> SeminarDict | None:
     """Parse a single ``div.card-body`` element into a seminar data dict.
