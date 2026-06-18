@@ -3,15 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 CATEGORIES:Teaching & Learning Community of Practice,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Using Behavioral Insights to Make AI Tutoring More Engaging and Effective\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Teaching & Learning Community of Practice\n<b>Organizers:</b> Kripa Freitas\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/101\n
-DTEND:20260617T170000Z
-LOCATION:GE 106
-DTSTART:20260617T161000Z
-SUMMARY:Phil Oreopoulos
-UID:ECO_SEMINAR-90c869bd-4a60-5405-9429-3a45d6213ead
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Teaching & Learning Community of Practice,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> Inside ECO334: What I've Tried\, What I've Learned\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Teaching & Learning Community of Practice\n<b>Organizers:</b> Kripa Freitas\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2141\n
 DTEND:20260624T170000Z
 LOCATION:GE 106
