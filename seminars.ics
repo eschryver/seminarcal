@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:Teaching & Learning Community of Practice,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Teaching & Learning Community of Practice
 DESCRIPTION:<b>Title:</b> Inside ECO334: What I've Tried\, What I've Learned\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Teaching & Learning Community of Practice\n<b>Organizers:</b> Kripa Freitas\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2141\n
 DTEND:20260624T170000Z
 LOCATION:GE 106
@@ -11,7 +11,7 @@ SUMMARY:Tianyi Wang
 UID:ECO_SEMINAR-8c35525a-0159-5292-93f2-e0035f89b0e1
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Teaching & Learning Community of Practice,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Teaching & Learning Community of Practice
 DESCRIPTION:<b>Title:</b> A Model of a Model: Gently Introducing Undergraduates to Research In Practice\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Teaching & Learning Community of Practice\n<b>Organizers:</b> Kripa Freitas\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2331\n
 DTEND:20260622T170000Z
 LOCATION:GE 106
