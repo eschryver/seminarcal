@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Teaching & Learning Community of Practice
+CATEGORIES:Teaching & Learning Community of Practice,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> Inside ECO334: What I've Tried\, What I've Learned\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Teaching & Learning Community of Practice\n<b>Organizers:</b> Kripa Freitas\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2141\n
 DTEND:20260624T170000Z
 LOCATION:GE 106
