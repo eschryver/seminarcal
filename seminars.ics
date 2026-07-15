@@ -2,16 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
-DTEND:20261014T163000Z
-LOCATION:RT 147
-DTSTART:20261014T151000Z
-SUMMARY:Diego Puga
-UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
+CATEGORIES:International trade,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
+DTEND:20260930T163000Z
+LOCATION:RT 157
+DTSTART:20260930T151000Z
+SUMMARY:David Jacks
+UID:ECO_SEMINAR-8f875ee1-5355-58b7-9d1e-f0964d1b2bf9
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
 LOCATION:RT 147
@@ -20,7 +20,16 @@ SUMMARY:Nuno Limao
 UID:ECO_SEMINAR-a6a11ac3-c9f0-5579-bf43-43b8a5d33621
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
+DTEND:20261014T163000Z
+LOCATION:RT 147
+DTSTART:20261014T151000Z
+SUMMARY:Diego Puga
+UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.bu.edu/econ/profile/natalia-ramondo/\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -29,7 +38,7 @@ SUMMARY:Natalia Ramondo
 UID:ECO_SEMINAR-33485ffd-dc52-5564-bfa8-594e9929484b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
 LOCATION:RT 147
@@ -38,7 +47,7 @@ SUMMARY:Danial Lashkari
 UID:ECO_SEMINAR-1c76cbd2-9e2e-5401-93af-81f771cd3884
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Yale University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://economics.yale.edu/people/michael-peters\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -47,7 +56,7 @@ SUMMARY:Michael Peters
 UID:ECO_SEMINAR-5950bf46-7be3-5f55-9e62-a61bc9ea7410
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
 LOCATION:RT 147
@@ -56,7 +65,7 @@ SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Victor Aguirregabiria\, Max Tabord-Meehan\, Yuanyuan Wan\n<b>Speaker link:</b> https://www.cemfi.es/~sentana/\n
 DTEND:20260918T193000Z
 LOCATION:GE 106
@@ -65,7 +74,7 @@ SUMMARY:Enrique Sentana
 UID:ECO_SEMINAR-6722b47b-0572-5492-bc43-59fee9341a4a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Sciences Po\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.sciencespo.fr/department-economics/directory/mayer-thierry/\n
 DTEND:20270331T160000Z
 LOCATION:RT 157
