@@ -65,7 +65,7 @@ SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Victor Aguirregabiria\, Max Tabord-Meehan\, Yuanyuan Wan\n<b>Speaker link:</b> https://www.cemfi.es/~sentana/\n
 DTEND:20260918T193000Z
 LOCATION:GE 106
