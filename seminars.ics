@@ -101,7 +101,7 @@ SUMMARY:Seohee Kim
 UID:ECO_SEMINAR-25bed761-e6e0-58de-8207-32b0e7354c58
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Harvard\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://dviviano.github.io/\n
 DTEND:20261009T193000Z
 LOCATION:GE 106
@@ -110,7 +110,7 @@ SUMMARY:Davide Viviano
 UID:ECO_SEMINAR-979d6019-ab7c-57c6-bebc-9fea072caa89
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California Davis\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://are.ucdavis.edu/people/faculty/dalia-ghanem/\n
 DTEND:20260925T193000Z
 LOCATION:GE 106
@@ -155,7 +155,7 @@ SUMMARY:Nuno Limao
 UID:ECO_SEMINAR-a6a11ac3-c9f0-5579-bf43-43b8a5d33621
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Washington\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://econ.washington.edu/people/yanqin-fan\n
 DTEND:20261120T203000Z
 LOCATION:Online
@@ -191,7 +191,7 @@ SUMMARY:Bnaya Dreyfuss
 UID:ECO_SEMINAR-77048ef1-bc17-589c-86cc-9ad582e7c5f6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California Los Angeles\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://filipobradovic.com/\n
 DTEND:20261106T203000Z
 LOCATION:GE 106
@@ -209,7 +209,7 @@ SUMMARY:Thierry Mayer
 UID:ECO_SEMINAR-6899860a-06c3-58a4-8b35-c114dbdc8c3a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> California Institute of Technology\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Yao Luo\, Max Tabord-Meehan\n<b>Speaker link:</b> https://sites.google.com/site/yixinpage/\n
 DTEND:20261113T203000Z
 LOCATION:GE 106
@@ -227,7 +227,7 @@ SUMMARY:Benjamin Keys
 UID:ECO_SEMINAR-d04defff-c8ae-5887-aaca-e0d845b4dc7b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Wisconsin / Johns Hopkins\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://users.ssc.wisc.edu/~xshi28/\n
 DTEND:20261023T193000Z
 LOCATION:GE 106
@@ -263,7 +263,7 @@ SUMMARY:Danila Serra
 UID:ECO_SEMINAR-0f0e1cd8-7475-5e5c-9dec-e635530e8f5a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
+CATEGORIES:Econometrics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Victor Aguirregabiria\, Max Tabord-Meehan\, Yuanyuan Wan\n<b>Speaker link:</b> https://www.cemfi.es/~sentana/\n
 DTEND:20260918T193000Z
 LOCATION:GE 106
