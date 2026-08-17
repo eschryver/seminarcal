@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
 DTEND:20260930T163000Z
 LOCATION:RT 151
@@ -29,7 +29,7 @@ SUMMARY:Winnie Van Dijk
 UID:ECO_SEMINAR-985bd66b-055c-5928-a507-938188308e3b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Yale University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://economics.yale.edu/people/michael-peters\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -38,13 +38,22 @@ SUMMARY:Michael Peters
 UID:ECO_SEMINAR-5950bf46-7be3-5f55-9e62-a61bc9ea7410
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
 LOCATION:RT LL1060
 DTSTART:20261111T183000Z
 SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Behavioural economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> Minimax Play in Armageddon Chess(joint with Miguel Fonseca\, Andrew Wooders\, John Wooders)\n<b>Institution:</b> University of Haifa and University of Exeter\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://sites.google.com/econ.haifa.ac.il/todd\n
+DTEND:20260930T163000Z
+LOCATION:GE 106
+DTSTART:20260930T151000Z
+SUMMARY:Todd Kaplan
+UID:ECO_SEMINAR-8eb29120-5ac3-511e-8169-1949271ab531
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Urban and real estate economics,ECO_SEMINAR
@@ -56,7 +65,7 @@ SUMMARY:Vincent Rollet
 UID:ECO_SEMINAR-32fe2340-74bb-591a-8f1b-9a927fe0ee4c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
 DTEND:20261014T163000Z
 LOCATION:RT 151
@@ -83,7 +92,7 @@ SUMMARY:Leonardo D'Amico
 UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
 LOCATION:RT LL1060
@@ -146,7 +155,7 @@ SUMMARY:Kristian Behrens
 UID:ECO_SEMINAR-6b83304f-d4ee-5da9-8dea-13849c967de3
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
 LOCATION:RT LL1020
@@ -164,7 +173,7 @@ SUMMARY:Yanqin Fan
 UID:ECO_SEMINAR-2f88a93c-3fa2-54ce-b1ea-f1a067ed0c1a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.bu.edu/econ/profile/natalia-ramondo/\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -200,7 +209,7 @@ SUMMARY:Filip Obradovic
 UID:ECO_SEMINAR-b04b01a8-4e8e-5e5b-a964-da574e0778ae
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Sciences Po\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.sciencespo.fr/department-economics/directory/mayer-thierry/\n
 DTEND:20270331T160000Z
 LOCATION:RT 157
@@ -254,7 +263,7 @@ SUMMARY:Kelly Shue
 UID:ECO_SEMINAR-c9df2362-115f-5418-8324-b54a74455778
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Development economics
+CATEGORIES:Development economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Texas A&M\n<b>Series:</b> Development economics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://people.tamu.edu/~dserra/\n
 DTEND:20261006T193000Z
 LOCATION:GE 106
@@ -272,7 +281,7 @@ SUMMARY:Enrique Sentana
 UID:ECO_SEMINAR-6722b47b-0572-5492-bc43-59fee9341a4a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
 DTEND:20261007T163000Z
 LOCATION:RT LL1020
