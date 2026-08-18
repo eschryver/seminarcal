@@ -47,7 +47,7 @@ SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Behavioural economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Behavioural economics
 DESCRIPTION:<b>Title:</b> Minimax Play in Armageddon Chess(joint with Miguel Fonseca\, Andrew Wooders\, John Wooders)\n<b>Institution:</b> University of Haifa and University of Exeter\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://sites.google.com/econ.haifa.ac.il/todd\n
 DTEND:20260930T163000Z
 LOCATION:GE 106
@@ -191,7 +191,7 @@ SUMMARY:Alina Arefeva
 UID:ECO_SEMINAR-024e06bd-6309-5d21-8c52-5505c666e7a0
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Behavioural economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Behavioural economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Climate economics\, Yoram Halevy\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://b3fuss.github.io/\n
 DTEND:20260923T163000Z
 LOCATION:GE 106
