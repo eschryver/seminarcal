@@ -11,7 +11,7 @@ SUMMARY:David Jacks
 UID:ECO_SEMINAR-8f875ee1-5355-58b7-9d1e-f0964d1b2bf9
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Booth School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/view/andrewmcclellan/home\n
 DTEND:20260922T163000Z
 LOCATION:GE 106
@@ -128,7 +128,7 @@ SUMMARY:Dalia Ghanem
 UID:ECO_SEMINAR-5d3c9d92-fa3e-5e57-8229-506afeb725ee
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
