@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
 DTEND:20260930T163000Z
 LOCATION:RT 151
@@ -11,7 +11,7 @@ SUMMARY:David Jacks
 UID:ECO_SEMINAR-8f875ee1-5355-58b7-9d1e-f0964d1b2bf9
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Economic theory,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Booth School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/view/andrewmcclellan/home\n
 DTEND:20260922T163000Z
 LOCATION:GE 106
@@ -29,7 +29,7 @@ SUMMARY:Winnie Van Dijk
 UID:ECO_SEMINAR-985bd66b-055c-5928-a507-938188308e3b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Yale University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://economics.yale.edu/people/michael-peters\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -38,7 +38,7 @@ SUMMARY:Michael Peters
 UID:ECO_SEMINAR-5950bf46-7be3-5f55-9e62-a61bc9ea7410
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
 LOCATION:RT LL1060
@@ -47,7 +47,7 @@ SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Behavioural economics
+CATEGORIES:Behavioural economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> Minimax Play in Armageddon Chess(joint with Miguel Fonseca\, Andrew Wooders\, John Wooders)\n<b>Institution:</b> University of Haifa and University of Exeter\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://sites.google.com/econ.haifa.ac.il/todd\n
 DTEND:20260930T163000Z
 LOCATION:GE 106
@@ -56,7 +56,16 @@ SUMMARY:Todd Kaplan
 UID:ECO_SEMINAR-8eb29120-5ac3-511e-8169-1949271ab531
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:ECO_SEMINAR,Economic theory
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
+DTEND:20261020T163000Z
+LOCATION:GE 106
+DTSTART:20261020T151000Z
+SUMMARY:Fedor Sandomirsky
+UID:ECO_SEMINAR-d04020fc-3de4-5194-b0ad-061999671ea7
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> <a href="https://vrollet.github.io/files/city_structure.pdf">Zoning and the Dynamics of Urban Redevelopment</a>\n<b>Institution:</b> Stanford University\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/site/vjrollet/home\n
 DTEND:20270302T170000Z
 LOCATION:RT 157
@@ -65,7 +74,7 @@ SUMMARY:Vincent Rollet
 UID:ECO_SEMINAR-32fe2340-74bb-591a-8f1b-9a927fe0ee4c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
 DTEND:20261014T163000Z
 LOCATION:RT 151
@@ -74,7 +83,16 @@ SUMMARY:Diego Puga
 UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:ECO_SEMINAR,Economic theory
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Arizona State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/markwhitmeyer/\n
+DTEND:20261103T173000Z
+LOCATION:GE 106
+DTSTART:20261103T161000Z
+SUMMARY:Mark Whitmeyer
+UID:ECO_SEMINAR-732d7ac4-de77-54f1-bee9-dda5c36b62fa
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> <a href="https://opportunityinsights.org/wp-content/uploads/2025/09/HopeVI_Paper.pdf">Creating High-Opportunity Neighborhoods: Evidence from the HOPE VI Program(joint with R. Chetty\, R. Diamond\, T. Foster\, L. Katz\, S. Porter\, L. Tach)</a>\n<b>Institution:</b> Opportunity Insights\, Harvard\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://www.matthewstaiger.com\n
 DTEND:20261208T170000Z
 LOCATION:RT 157
@@ -83,7 +101,7 @@ SUMMARY:Matthew Staiger
 UID:ECO_SEMINAR-613db7b7-ae9e-5e9e-b8b0-94a00855b318
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> <a href="https://leonardodamico.github.io/papers/angelova_damico_mortgages.pdf">The Making of a National Mortgage Market and its Effects on American Cities(joint with Victoria Angelova)</a>\n<b>Institution:</b> University of Chicago\, Booth\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://leonardodamico.github.io\n
 DTEND:20270406T160000Z
 LOCATION:RT 157
@@ -92,7 +110,7 @@ SUMMARY:Leonardo D'Amico
 UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
 LOCATION:RT LL1060
@@ -101,7 +119,7 @@ SUMMARY:Danial Lashkari
 UID:ECO_SEMINAR-1c76cbd2-9e2e-5401-93af-81f771cd3884
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Indiana University\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/seoheekim\n
 DTEND:20261124T170000Z
 LOCATION:RT 157
@@ -128,7 +146,7 @@ SUMMARY:Dalia Ghanem
 UID:ECO_SEMINAR-5d3c9d92-fa3e-5e57-8229-506afeb725ee
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Economic theory,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
@@ -146,7 +164,7 @@ SUMMARY:Danielle Li
 UID:ECO_SEMINAR-e6a6626f-7643-5ab6-acd7-0eb864673807
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> UQAM\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/kristianbehrens/home\n
 DTEND:20270323T160000Z
 LOCATION:RT 157
@@ -155,7 +173,7 @@ SUMMARY:Kristian Behrens
 UID:ECO_SEMINAR-6b83304f-d4ee-5da9-8dea-13849c967de3
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
 LOCATION:RT LL1020
@@ -173,7 +191,7 @@ SUMMARY:Yanqin Fan
 UID:ECO_SEMINAR-2f88a93c-3fa2-54ce-b1ea-f1a067ed0c1a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.bu.edu/econ/profile/natalia-ramondo/\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -182,7 +200,7 @@ SUMMARY:Natalia Ramondo
 UID:ECO_SEMINAR-33485ffd-dc52-5564-bfa8-594e9929484b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of North Dakota\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/site/alinaarefeva/home\n
 DTEND:20270223T170000Z
 LOCATION:RT 157
@@ -191,7 +209,7 @@ SUMMARY:Alina Arefeva
 UID:ECO_SEMINAR-024e06bd-6309-5d21-8c52-5505c666e7a0
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Behavioural economics
+CATEGORIES:Behavioural economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Climate economics\, Yoram Halevy\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://b3fuss.github.io/\n
 DTEND:20260923T163000Z
 LOCATION:GE 106
@@ -209,7 +227,7 @@ SUMMARY:Filip Obradovic
 UID:ECO_SEMINAR-b04b01a8-4e8e-5e5b-a964-da574e0778ae
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Sciences Po\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.sciencespo.fr/department-economics/directory/mayer-thierry/\n
 DTEND:20270331T160000Z
 LOCATION:RT 157
@@ -227,7 +245,7 @@ SUMMARY:Yi Xin
 UID:ECO_SEMINAR-640907ee-04d5-5209-aa61-bd12685b9ff2
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
 DTEND:20261110T170000Z
 LOCATION:RT 157
@@ -245,7 +263,7 @@ SUMMARY:Xiaoxia Shi
 UID:ECO_SEMINAR-572c4b32-077c-5a07-bcc6-6e91ee572c60
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+CATEGORIES:Urban and real estate economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California\, Santa Cruz\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://www.uiuc-bdeep.org\n
 DTEND:20270413T160000Z
 LOCATION:RT 157
@@ -263,7 +281,7 @@ SUMMARY:Kelly Shue
 UID:ECO_SEMINAR-c9df2362-115f-5418-8324-b54a74455778
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Development economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Development economics
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Texas A&M\n<b>Series:</b> Development economics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://people.tamu.edu/~dserra/\n
 DTEND:20261006T193000Z
 LOCATION:GE 106
@@ -281,7 +299,7 @@ SUMMARY:Enrique Sentana
 UID:ECO_SEMINAR-6722b47b-0572-5492-bc43-59fee9341a4a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
 DTEND:20261007T163000Z
 LOCATION:RT LL1020
