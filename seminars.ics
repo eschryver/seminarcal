@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
 DTEND:20260930T163000Z
 LOCATION:RT 151
@@ -11,7 +11,7 @@ SUMMARY:David Jacks
 UID:ECO_SEMINAR-8f875ee1-5355-58b7-9d1e-f0964d1b2bf9
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Booth School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/view/andrewmcclellan/home\n
 DTEND:20260922T163000Z
 LOCATION:GE 106
@@ -29,7 +29,7 @@ SUMMARY:Grant Benjamin
 UID:ECO_SEMINAR-55f0611e-ae1b-5905-b74d-8fc6819e3827
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Public economics / Empirical Microeconomics
+CATEGORIES:Public economics / Empirical Microeconomics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Yale\n<b>Series:</b> Public economics / Empirical Microeconomics\n<b>Organizers:</b> Development economics\, Runjing Lu\, Fern Ramoutar\n<b>Speaker link:</b> https://sites.google.com/site/winnielillianvandijk/\n
 DTEND:20270309T203000Z
 LOCATION:GE 106
@@ -56,7 +56,7 @@ SUMMARY:Taryn Eames
 UID:ECO_SEMINAR-79595c53-61b0-5a85-b579-b32a1c666397
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Yale University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://economics.yale.edu/people/michael-peters\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -65,7 +65,7 @@ SUMMARY:Michael Peters
 UID:ECO_SEMINAR-5950bf46-7be3-5f55-9e62-a61bc9ea7410
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
 LOCATION:RT LL1060
@@ -74,7 +74,7 @@ SUMMARY:Eduardo Morales
 UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Behavioural economics
+CATEGORIES:Behavioural economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> Minimax Play in Armageddon Chess(joint with Miguel Fonseca\, Andrew Wooders\, John Wooders)\n<b>Institution:</b> University of Haifa and University of Exeter\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://sites.google.com/econ.haifa.ac.il/todd\n
 DTEND:20260930T163000Z
 LOCATION:GE 106
@@ -83,7 +83,7 @@ SUMMARY:Todd Kaplan
 UID:ECO_SEMINAR-8eb29120-5ac3-511e-8169-1949271ab531
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
 DTEND:20261020T163000Z
 LOCATION:GE 106
@@ -101,7 +101,7 @@ SUMMARY:Vincent Rollet
 UID:ECO_SEMINAR-32fe2340-74bb-591a-8f1b-9a927fe0ee4c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Paris School of Economics\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/nvellodi\n
 DTEND:20270302T173000Z
 LOCATION:GE 106
@@ -110,7 +110,7 @@ SUMMARY:Nikhil Vellodi
 UID:ECO_SEMINAR-38a2bdf8-d74e-55c3-b33b-bb3505786dae
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
 DTEND:20261014T163000Z
 LOCATION:RT 151
@@ -119,7 +119,7 @@ SUMMARY:Diego Puga
 UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Arizona State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/markwhitmeyer/\n
 DTEND:20261103T173000Z
 LOCATION:GE 106
@@ -128,7 +128,7 @@ SUMMARY:Mark Whitmeyer
 UID:ECO_SEMINAR-732d7ac4-de77-54f1-bee9-dda5c36b62fa
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Tel-Aviv University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/eilonsolanphd/\n
 DTEND:20261124T173000Z
 LOCATION:GE 106
@@ -155,7 +155,7 @@ SUMMARY:Leonardo D'Amico
 UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Queen's University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://shota2.github.io/\n
 DTEND:20261110T173000Z
 LOCATION:GE 106
@@ -164,7 +164,7 @@ SUMMARY:Shota Ichihashi
 UID:ECO_SEMINAR-74305c87-46ae-5416-9e42-e815ec66b6c4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
 LOCATION:RT LL1060
@@ -182,7 +182,7 @@ SUMMARY:Seohee Kim
 UID:ECO_SEMINAR-25bed761-e6e0-58de-8207-32b0e7354c58
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Harvard University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://yannai.gonch.name/scientific/\n
 DTEND:20270316T163000Z
 LOCATION:GE 106
@@ -200,7 +200,7 @@ SUMMARY:Davide Viviano
 UID:ECO_SEMINAR-979d6019-ab7c-57c6-bebc-9fea072caa89
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://anniehliang.com/\n
 DTEND:20270330T163000Z
 LOCATION:GE 106
@@ -218,7 +218,7 @@ SUMMARY:Enrique Sentana
 UID:ECO_SEMINAR-f3c0ecae-89b6-545c-a789-c903476a78ca
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://www.beixizhou.com/\n
 DTEND:20261201T173000Z
 LOCATION:GE 106
@@ -245,7 +245,7 @@ SUMMARY:Harrison Chang
 UID:ECO_SEMINAR-27e49d3a-da7d-5e9c-ad4d-924c0f3b0b0f
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
@@ -254,7 +254,7 @@ SUMMARY:Willie Fuchs
 UID:ECO_SEMINAR-75777e90-e2df-50af-8de9-fe6a7e84030e
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Public economics / Empirical Microeconomics
+CATEGORIES:Public economics / Empirical Microeconomics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> MIT\n<b>Series:</b> Public economics / Empirical Microeconomics\n<b>Organizers:</b> Development economics\, Kory Kroft\, Runjing Lu\n<b>Speaker link:</b> https://danielle.li/\n
 DTEND:20261106T173000Z
 LOCATION:GE 106
@@ -272,7 +272,7 @@ SUMMARY:Kristian Behrens
 UID:ECO_SEMINAR-6b83304f-d4ee-5da9-8dea-13849c967de3
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
 LOCATION:RT LL1020
@@ -290,7 +290,7 @@ SUMMARY:Yanqin Fan
 UID:ECO_SEMINAR-2f88a93c-3fa2-54ce-b1ea-f1a067ed0c1a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.bu.edu/econ/profile/natalia-ramondo/\n
 DTEND:20270414T163000Z
 LOCATION:RT 157
@@ -308,7 +308,7 @@ SUMMARY:Rawnak Amin
 UID:ECO_SEMINAR-9ebb468e-c55a-5f51-a0f4-4ffc5cb7acfa
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
 DTEND:20261117T173000Z
 LOCATION:GE 106
@@ -326,7 +326,7 @@ SUMMARY:Alina Arefeva
 UID:ECO_SEMINAR-024e06bd-6309-5d21-8c52-5505c666e7a0
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Behavioural economics
+CATEGORIES:Behavioural economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Climate economics\, Yoram Halevy\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://b3fuss.github.io/\n
 DTEND:20260923T163000Z
 LOCATION:GE 106
@@ -344,7 +344,7 @@ SUMMARY:Filip Obradovic
 UID:ECO_SEMINAR-b04b01a8-4e8e-5e5b-a964-da574e0778ae
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Pennsylvania State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://nageebali.com/\n
 DTEND:20270407T163000Z
 LOCATION:GE 106
@@ -353,7 +353,7 @@ SUMMARY:Nageeb Ali
 UID:ECO_SEMINAR-f38668a4-766a-52b7-95c4-f9014cd7bd28
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Sciences Po\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://www.sciencespo.fr/department-economics/directory/mayer-thierry/\n
 DTEND:20270331T160000Z
 LOCATION:RT 157
@@ -425,7 +425,7 @@ SUMMARY:Yanzun Yang
 UID:ECO_SEMINAR-cfe4c453-43b7-5fee-9416-9db88a4f4534
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Pompeu Fabra University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://larbialaoui.com/\n
 DTEND:20270309T173000Z
 LOCATION:GE 106
@@ -434,7 +434,7 @@ SUMMARY:Larbi Alaoui
 UID:ECO_SEMINAR-7297f826-3d59-5e2c-9c1f-63e73ce8207c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Public economics / Empirical Microeconomics
+CATEGORIES:Public economics / Empirical Microeconomics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Yale\n<b>Series:</b> Public economics / Empirical Microeconomics\n<b>Organizers:</b> Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/kellyshue/\n
 DTEND:20270226T173000Z
 LOCATION:GE 106
@@ -443,7 +443,7 @@ SUMMARY:Kelly Shue
 UID:ECO_SEMINAR-c9df2362-115f-5418-8324-b54a74455778
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Development economics
+CATEGORIES:Development economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Texas A&M\n<b>Series:</b> Development economics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://people.tamu.edu/~dserra/\n
 DTEND:20261006T193000Z
 LOCATION:GE 106
@@ -461,7 +461,7 @@ SUMMARY:Reza Moradi
 UID:ECO_SEMINAR-2b45ad15-454f-53bc-a992-ea65fedb841c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
+CATEGORIES:International trade,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
 DTEND:20261007T163000Z
 LOCATION:RT LL1020
