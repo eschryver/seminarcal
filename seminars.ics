@@ -83,15 +83,6 @@ SUMMARY:Xiaoya Gao
 UID:ECO_SEMINAR-20365073-da57-5131-8f8d-674dfddbb5f3
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Eva Vivalt\n<b>Speaker link:</b> https://www.kellogg.northwestern.edu/academics-research/faculty/karlan_dean/\n
-DTEND:20260911T163000Z
-LOCATION:GE 106
-DTSTART:20260911T151000Z
-SUMMARY:Dean Karlan
-UID:ECO_SEMINAR-d4b922f3-4f96-58e0-aafd-27ce4a3dbd13
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
@@ -182,7 +173,7 @@ SUMMARY:Matthew Staiger
 UID:ECO_SEMINAR-613db7b7-ae9e-5e9e-b8b0-94a00855b318
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Development economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Development economics
 DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26025">Identity Uncertainty(joint with Anujit Chakraborty\, Arkadev Ghosh\, Gareth Nellis)</a>\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://mattjlowe.github.io/\n
 DTEND:20260922T193000Z
 LOCATION:GE 106
@@ -198,6 +189,15 @@ LOCATION:GE 106
 DTSTART:20261110T161000Z
 SUMMARY:Shota Ichihashi
 UID:ECO_SEMINAR-74305c87-46ae-5416-9e42-e815ec66b6c4
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Empirical microeconomics
+DESCRIPTION:<b>Title:</b> The Limits of Capital: Grant and Loan Experiments with a Graduation Program in Uganda\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Development economics\, Eva Vivalt\n<b>Speaker link:</b> https://www.kellogg.northwestern.edu/academics-research/faculty/karlan_dean/\n
+DTEND:20260911T163000Z
+LOCATION:GE 106
+DTSTART:20260911T151000Z
+SUMMARY:Dean Karlan
+UID:ECO_SEMINAR-27b08a1d-73a1-5d70-8430-82904b569ace
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -227,15 +227,6 @@ SUMMARY:Yannai Gonczarowski
 UID:ECO_SEMINAR-6afc8a25-38e7-5a1a-bfab-9e42bcf43724
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
-DESCRIPTION:<b>Title:</b> <a href="https://leonardodamico.github.io/papers/angelova_damico_mortgages.pdf">The Making of a National Mortgage Market and its Effects on American Cities(joint with Victoria Angelova)</a>\n<b>Institution:</b> University of Chicago\, Booth\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://leonardodamico.github.io\n
-DTEND:20270406T160000Z
-LOCATION:RT 157
-DTSTART:20270406T144000Z
-SUMMARY:Leonardo D'Amico
-UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Harvard\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://dviviano.github.io/\n
 DTEND:20261009T193000Z
@@ -243,6 +234,15 @@ LOCATION:GE 106
 DTSTART:20261009T181000Z
 SUMMARY:Davide Viviano
 UID:ECO_SEMINAR-979d6019-ab7c-57c6-bebc-9fea072caa89
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+DESCRIPTION:<b>Title:</b> <a href="https://leonardodamico.github.io/papers/angelova_damico_mortgages.pdf">The Making of a National Mortgage Market and its Effects on American Cities(joint with Victoria Angelova)</a>\n<b>Institution:</b> University of Chicago\, Booth\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://leonardodamico.github.io\n
+DTEND:20270406T160000Z
+LOCATION:RT 157
+DTSTART:20270406T144000Z
+SUMMARY:Leonardo D'Amico
+UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
@@ -515,7 +515,7 @@ SUMMARY:Kelly Shue
 UID:ECO_SEMINAR-c9df2362-115f-5418-8324-b54a74455778
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Development economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Development economics
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Texas A&M\n<b>Series:</b> Development economics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://people.tamu.edu/~dserra/\n
 DTEND:20261006T193000Z
 LOCATION:GE 106
