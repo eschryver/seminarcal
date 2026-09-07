@@ -258,7 +258,7 @@ def add_seminar_event(cal: Calendar, seminar: SeminarDict) -> None:
     event.location = location_value if isinstance(location_value, str) else None
     series_value = seminar.get("series")
     series_category = series_value if isinstance(series_value, str) else ""
-    event.categories = {SERIES_TAG, series_category}
+    event.categories = sorted({SERIES_TAG, series_category})
     event.uid = f"{SERIES_TAG}-{stable_uid}"
     event.description = (
         title_part
