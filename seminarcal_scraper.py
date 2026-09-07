@@ -1,6 +1,6 @@
 import re
 import uuid
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 
 import requests
@@ -72,6 +72,13 @@ def parse_datetime_location(
 
     start_datetime = datetime.combine(date_obj.date(), start_dt.time())
     end_datetime = datetime.combine(date_obj.date(), end_dt.time())
+
+    # Seminars are almost never scheduled between midnight and 9am; a start
+    # time in that window is typically a 12-hour (AM/PM) data-entry error on
+    # the source site, so shift both times forward by 12 hours to correct it.
+    if start_datetime.hour < 9:
+        start_datetime += timedelta(hours=12)
+        end_datetime += timedelta(hours=12)
 
     return start_datetime, end_datetime, location
 
