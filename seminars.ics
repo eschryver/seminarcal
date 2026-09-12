@@ -2,15 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
-DTEND:20260930T163000Z
-LOCATION:RT 151
-DTSTART:20260930T151000Z
-SUMMARY:David Jacks
-UID:ECO_SEMINAR-8f875ee1-5355-58b7-9d1e-f0964d1b2bf9
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Booth School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/view/andrewmcclellan/home\n
 DTEND:20260922T163000Z
@@ -290,15 +281,6 @@ SUMMARY:Shota Ichihashi
 UID:ECO_SEMINAR-74305c87-46ae-5416-9e42-e815ec66b6c4
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> The Limits of Capital: Grant and Loan Experiments with a Graduation Program in Uganda\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Development economics\, Eva Vivalt\n<b>Speaker link:</b> https://www.kellogg.northwestern.edu/academics-research/faculty/karlan_dean/\n
-DTEND:20260911T163000Z
-LOCATION:GE 106
-DTSTART:20260911T151000Z
-SUMMARY:Dean Karlan
-UID:ECO_SEMINAR-27b08a1d-73a1-5d70-8430-82904b569ace
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
@@ -371,6 +353,15 @@ SUMMARY:Kristian Behrens
 UID:ECO_SEMINAR-6b83304f-d4ee-5da9-8dea-13849c967de3
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,International trade
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/25970">Suez(joint with Christopher M. Meissner and Nikolaus Wolf)</a>\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://davidjacks.org/\n
+DTEND:20260930T163000Z
+LOCATION:RT 151
+DTSTART:20260930T151000Z
+SUMMARY:David Jacks
+UID:ECO_SEMINAR-57b0287c-2c7c-5994-851b-1f7970a6e2af
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Climate economics
 DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Illinois at Urbana-Champaign\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://deryugina.com/\n
 DTEND:20270225T203000Z
@@ -414,6 +405,15 @@ LOCATION:GE 106
 DTSTART:20261023T151000Z
 SUMMARY:Alison Cane
 UID:ECO_SEMINAR-4107b3de-a79b-5201-be87-8dd0e36ab92c
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,International trade
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Ecole Polytechnique\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/geoffreybarrows/\n
+DTEND:20270407T163000Z
+LOCATION:RT 151
+DTSTART:20270407T151000Z
+SUMMARY:Geoffrey Barrows
+UID:ECO_SEMINAR-61ea75ac-ebd3-5152-99e3-2aeb4f770af2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -486,6 +486,15 @@ LOCATION:RT 157
 DTSTART:20270414T151000Z
 SUMMARY:Michael Peters
 UID:ECO_SEMINAR-5950bf46-7be3-5f55-9e62-a61bc9ea7410
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Climate economics
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Stanford University\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://shanjunli6.github.io/\n
+DTEND:20270315T203000Z
+LOCATION:RT 147
+DTSTART:20270315T191000Z
+SUMMARY:Shanjun Li
+UID:ECO_SEMINAR-48e65eca-4ad8-577d-b96d-f9968dd29a50
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
@@ -731,6 +740,15 @@ SUMMARY:Gabriel Mihalache
 UID:ECO_SEMINAR-428f536f-ca10-579b-aaad-803f8ce63cc3
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Financial economics
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/timothymcquade/home\n
+DTEND:20260930T193000Z
+LOCATION:GE 106
+DTSTART:20260930T181000Z
+SUMMARY:Timothy McQuade
+UID:ECO_SEMINAR-353bf555-49d9-5783-a526-f06f5fb87276
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
 DTEND:20261001T163000Z
@@ -801,6 +819,15 @@ LOCATION:GE 106
 DTSTART:20270302T161000Z
 SUMMARY:Nikhil Vellodi
 UID:ECO_SEMINAR-38a2bdf8-d74e-55c3-b33b-bb3505786dae
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Climate economics
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> KU Leuven\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://sites.google.com/site/frankverbo/home\n
+DTEND:20260921T203000Z
+LOCATION:RT 147
+DTSTART:20260921T191000Z
+SUMMARY:Frank Verboen
+UID:ECO_SEMINAR-6b053a18-0ba2-59a1-8fa3-b03b69571ac2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
