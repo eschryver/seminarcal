@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Booth School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/view/andrewmcclellan/home\n
 DTEND:20260922T163000Z
 LOCATION:GE 106
@@ -20,7 +20,7 @@ SUMMARY:Derek Thiele
 UID:ECO_SEMINAR-fd4c01b9-cf02-5500-9dfc-68b3b2e4c410
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
 DTEND:20261020T163000Z
 LOCATION:GE 106
@@ -38,7 +38,7 @@ SUMMARY:Peter Wu
 UID:ECO_SEMINAR-78ae65b7-c74f-5a35-a84e-cd14f0e13e5d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> <a href="https://vrollet.github.io/files/city_structure.pdf">Zoning and the Dynamics of Urban Redevelopment</a>\n<b>Institution:</b> Stanford University\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/site/vjrollet/home\n
 DTEND:20270302T170000Z
 LOCATION:RT 157
@@ -74,7 +74,7 @@ SUMMARY:Ben Lauzon
 UID:ECO_SEMINAR-5e080557-a7e9-5a50-ae71-2b27b9c5384a
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
@@ -92,7 +92,7 @@ SUMMARY:Nuno Limao
 UID:ECO_SEMINAR-a6a11ac3-c9f0-5579-bf43-43b8a5d33621
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Texas at Austin\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/view/pfaeuti/\n
 DTEND:20261015T163000Z
 LOCATION:GE 106
@@ -137,7 +137,7 @@ SUMMARY:Yi Xin
 UID:ECO_SEMINAR-640907ee-04d5-5209-aa61-bd12685b9ff2
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
 DTEND:20261110T170000Z
 LOCATION:RT 157
@@ -164,7 +164,7 @@ SUMMARY:David Zhang
 UID:ECO_SEMINAR-18d2e087-5a44-5ae1-a27d-03eb33192257
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Special lecture,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Special lecture
 DESCRIPTION:<b>Title:</b> <a href="https://sites.psu.edu/chloetergiman/files/2026/03/Promise-Keeping-and-the-Internal-Judge.pdf">Promise-keeping and the internal judge(joint with Sorravich Kingsuwankul and Marie Claire Villeval)</a>\n<b>Institution:</b> The Pennsylvania State University\n<b>Series:</b> Special lecture\n<b>Organizers:</b> Ettore Damiano\, Yoram Halevy\n<b>Speaker link:</b> https://sites.psu.edu/chloetergiman/\n
 DTEND:20260925T163000Z
 LOCATION:GE 106
@@ -263,7 +263,7 @@ SUMMARY:Diego Puga
 UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> <a href="https://opportunityinsights.org/wp-content/uploads/2025/09/HopeVI_Paper.pdf">Creating High-Opportunity Neighborhoods: Evidence from the HOPE VI Program(joint with R. Chetty\, R. Diamond\, T. Foster\, L. Katz\, S. Porter\, L. Tach)</a>\n<b>Institution:</b> Opportunity Insights\, Harvard\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://www.matthewstaiger.com\n
 DTEND:20261208T170000Z
 LOCATION:RT 157
@@ -272,7 +272,7 @@ SUMMARY:Matthew Staiger
 UID:ECO_SEMINAR-613db7b7-ae9e-5e9e-b8b0-94a00855b318
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> <a href="https://leonardodamico.github.io/papers/angelova_damico_mortgages.pdf">The Making of a National Mortgage Market and its Effects on American Cities(joint with Victoria Angelova)</a>\n<b>Institution:</b> University of Chicago\, Booth\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://leonardodamico.github.io\n
 DTEND:20270406T160000Z
 LOCATION:RT 157
@@ -281,7 +281,7 @@ SUMMARY:Leonardo D'Amico
 UID:ECO_SEMINAR-0bdfef88-4b4c-5224-858f-2f93b0b7e329
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Queen's University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://shota2.github.io/\n
 DTEND:20261110T173000Z
 LOCATION:GE 106
@@ -299,7 +299,7 @@ SUMMARY:Danial Lashkari
 UID:ECO_SEMINAR-1c76cbd2-9e2e-5401-93af-81f771cd3884
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Indiana University\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/seoheekim\n
 DTEND:20261124T170000Z
 LOCATION:RT 157
@@ -317,7 +317,7 @@ SUMMARY:Davide Viviano
 UID:ECO_SEMINAR-979d6019-ab7c-57c6-bebc-9fea072caa89
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://anniehliang.com/\n
 DTEND:20270330T163000Z
 LOCATION:GE 106
@@ -353,7 +353,7 @@ SUMMARY:Shiqi Xiang
 UID:ECO_SEMINAR-e6af3b20-beaa-59e9-93b2-3b7bec984552
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> UQAM\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/kristianbehrens/home\n
 DTEND:20270323T160000Z
 LOCATION:RT 157
@@ -398,7 +398,7 @@ SUMMARY:Mohammad Seyedsalehi
 UID:ECO_SEMINAR-5d204fe4-2aed-5661-b13f-3ea5382a4d69
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Pennsylvania State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://nageebali.com/\n
 DTEND:20270407T163000Z
 LOCATION:GE 106
@@ -441,6 +441,15 @@ LOCATION:GE 106
 DTSTART:20261022T164500Z
 SUMMARY:Joyce Wang
 UID:ECO_SEMINAR-76a15435-3e85-5429-a03c-d1cf822219e3
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Econometrics
+DESCRIPTION:<b>Title:</b> Evaluating the Impact of Regulatory Policies on Social Welfare in Difference-in-Difference Settings(joint with Desire Kedagni\, Ismael Mourifie)\n<b>Institution:</b> University of California Davis\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://are.ucdavis.edu/people/faculty/dalia-ghanem/\n
+DTEND:20260925T193000Z
+LOCATION:GE 106
+DTSTART:20260925T181000Z
+SUMMARY:Dalia Ghanem
+UID:ECO_SEMINAR-3928477b-bc3b-5a0a-8834-4a13a1bf3cbf
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Empirical microeconomics,ECO_SEMINAR
@@ -506,7 +515,7 @@ SUMMARY:Shanjun Li
 UID:ECO_SEMINAR-48e65eca-4ad8-577d-b96d-f9968dd29a50
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Arizona State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/markwhitmeyer/\n
 DTEND:20261103T173000Z
 LOCATION:GE 106
@@ -524,7 +533,7 @@ SUMMARY:Vahid Dehghani
 UID:ECO_SEMINAR-0c8764da-28a0-5e82-a60c-eae9389e5db8
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://www.beixizhou.com/\n
 DTEND:20261201T173000Z
 LOCATION:GE 106
@@ -578,16 +587,7 @@ SUMMARY:A T M Hasibul Islam
 UID:ECO_SEMINAR-1ad39c03-e576-54a9-9b60-b6029ea39b3d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Measuring the Effects of Aggregate Shocks on Unit-Level Outcomes and Their Distribution(joint with Chi Hyun Kim (HU Berlin) and Frank Schorfheide (U Penn))\n<b>Institution:</b> CERGE-EI\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Gueorgui Kambourov\n<b>Speaker link:</b> https://www.stephanieettmeier.com\n
-DTEND:20260914T173000Z
-LOCATION:GE 106
-DTSTART:20260914T161000Z
-SUMMARY:Stephanie Ettmeier
-UID:ECO_SEMINAR-555abefb-68f6-52f0-a571-cd83bcfdcef1
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Inter American Development Bank\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/site/marcelozouainpedroni/\n
 DTEND:20260924T163000Z
 LOCATION:GE 106
@@ -605,7 +605,7 @@ SUMMARY:Rawnak Amin
 UID:ECO_SEMINAR-9ebb468e-c55a-5f51-a0f4-4ffc5cb7acfa
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
 DTEND:20261117T173000Z
 LOCATION:GE 106
@@ -695,7 +695,7 @@ SUMMARY:Michèle Belot
 UID:ECO_SEMINAR-e7edc00b-42bd-544f-8891-a472ff933ba5
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California\, Santa Cruz\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://www.uiuc-bdeep.org\n
 DTEND:20270413T160000Z
 LOCATION:RT 157
@@ -713,7 +713,7 @@ SUMMARY:Larasati Wulandari
 UID:ECO_SEMINAR-242d4bb9-5257-5db3-915e-c700ce485ec6
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Pompeu Fabra University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://larbialaoui.com/\n
 DTEND:20270309T173000Z
 LOCATION:GE 106
@@ -740,7 +740,7 @@ SUMMARY:Ayaka Behro
 UID:ECO_SEMINAR-932a3e2c-6368-5680-ad72-e1705ce70d50
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Ohio State\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Joseph Steinberg\n<b>Speaker link:</b> https://gmihalache.com/\n
 DTEND:20261105T173000Z
 LOCATION:GE 106
@@ -758,7 +758,7 @@ SUMMARY:Timothy McQuade
 UID:ECO_SEMINAR-353bf555-49d9-5783-a526-f06f5fb87276
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
 DTEND:20261001T163000Z
 LOCATION:GE 106
@@ -812,7 +812,7 @@ SUMMARY:Eric Nussbaum
 UID:ECO_SEMINAR-6a449964-2a63-5e5e-b62d-e7c66034f363
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Paris School of Economics\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/nvellodi\n
 DTEND:20270302T173000Z
 LOCATION:GE 106
@@ -830,7 +830,7 @@ SUMMARY:Frank Verboen
 UID:ECO_SEMINAR-6b053a18-0ba2-59a1-8fa3-b03b69571ac2
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
+CATEGORIES:Economic theory,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Harvard University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://yannai.gonch.name/scientific/\n
 DTEND:20270316T163000Z
 LOCATION:GE 106
@@ -846,15 +846,6 @@ LOCATION:GE 106
 DTSTART:20261119T191000Z
 SUMMARY:Lars Peter Hansen
 UID:ECO_SEMINAR-d6cc1821-031f-5a93-9613-aa8aa2c7e6ab
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California Davis\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://are.ucdavis.edu/people/faculty/dalia-ghanem/\n
-DTEND:20260925T193000Z
-LOCATION:GE 106
-DTSTART:20260925T181000Z
-SUMMARY:Dalia Ghanem
-UID:ECO_SEMINAR-5d3c9d92-fa3e-5e57-8229-506afeb725ee
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Empirical microeconomics,ECO_SEMINAR
@@ -875,7 +866,7 @@ SUMMARY:Tamma Carleton
 UID:ECO_SEMINAR-e64e9a56-4ef4-5d27-8c9f-4304faa3fda5
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Urban and real estate economics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of North Dakota\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/site/alinaarefeva/home\n
 DTEND:20270223T170000Z
 LOCATION:RT 157
@@ -929,7 +920,7 @@ SUMMARY:Yanzun Yang
 UID:ECO_SEMINAR-cfe4c453-43b7-5fee-9416-9db88a4f4534
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Macroeconomics,ECO_SEMINAR
+CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Cornell University\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://ezraoberfield.github.io\n
 DTEND:20261119T173000Z
 LOCATION:GE 106
