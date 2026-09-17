@@ -74,6 +74,15 @@ SUMMARY:Willie Fuchs
 UID:ECO_SEMINAR-75777e90-e2df-50af-8de9-fe6a7e84030e
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DTEND:20261111T180000Z
+LOCATION:GE 106
+DTSTART:20261111T171000Z
+SUMMARY:Sina Kavuncu
+UID:ECO_SEMINAR-ae8788c8-fb10-5069-94ea-c23b95b4c8f7
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
@@ -128,13 +137,13 @@ SUMMARY:Yi Xin
 UID:ECO_SEMINAR-640907ee-04d5-5209-aa61-bd12685b9ff2
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
-DTEND:20261110T170000Z
-LOCATION:RT 157
-DTSTART:20261110T154000Z
-SUMMARY:Benjamin Keys
-UID:ECO_SEMINAR-d04defff-c8ae-5887-aaca-e0d845b4dc7b
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> Assortment Policy and Fresh Produce: How Far Can It Move Consumption?\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20260917T174500Z
+LOCATION:GE 106
+DTSTART:20260917T164500Z
+SUMMARY:Nanxi Fu
+UID:ECO_SEMINAR-73784a60-d7d4-53c5-ad43-304643601ed4
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
@@ -153,6 +162,15 @@ LOCATION:GE 106
 DTSTART:20260922T151000Z
 SUMMARY:Andrew McClellan
 UID:ECO_SEMINAR-33a1c4c1-998c-5b49-ab6d-af5cbb0257b0
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
+DTEND:20261110T170000Z
+LOCATION:RT 157
+DTSTART:20261110T154000Z
+SUMMARY:Benjamin Keys
+UID:ECO_SEMINAR-d04defff-c8ae-5887-aaca-e0d845b4dc7b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -189,6 +207,15 @@ LOCATION:GE 106
 DTSTART:20261029T171500Z
 SUMMARY:Ifeyinwa Kofo-Alada
 UID:ECO_SEMINAR-b27fb030-ed8f-5d5f-ae79-9bc0fd15a6df
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Economic theory
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> National University of Singapore\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Zi Yang Kang\, Xianwen Shi\n<b>Speaker link:</b> https://www.qiangfueconomics.net/\n
+DTEND:20270126T173000Z
+LOCATION:GE 106
+DTSTART:20270126T161000Z
+SUMMARY:Qiang Fu
+UID:ECO_SEMINAR-43842001-665e-57e6-a173-f79e7e1f0450
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -488,13 +515,13 @@ SUMMARY:Javier Cravino
 UID:ECO_SEMINAR-92bcb2d2-fbcf-5d8f-b4a6-bb6d5718da89
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
-DTEND:20260917T174500Z
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DTEND:20261125T180000Z
 LOCATION:GE 106
-DTSTART:20260917T164500Z
-SUMMARY:Nanxi Fu
-UID:ECO_SEMINAR-1accc91c-8716-5e55-85c9-760f0e3297fd
+DTSTART:20261125T171000Z
+SUMMARY:Carmen Whiteway
+UID:ECO_SEMINAR-87c9f02f-4e78-545b-83cb-6106111569f5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -594,15 +621,6 @@ LOCATION:GE 106
 DTSTART:20261112T181500Z
 SUMMARY:A T M Hasibul Islam
 UID:ECO_SEMINAR-1ad39c03-e576-54a9-9b60-b6029ea39b3d
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Inter American Development Bank\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/site/marcelozouainpedroni/\n
-DTEND:20260924T163000Z
-LOCATION:GE 106
-DTSTART:20260924T151000Z
-SUMMARY:Marcelo Pedroni
-UID:ECO_SEMINAR-d51c58c4-2fda-53b0-b6af-ac8a14e01ead
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -812,6 +830,15 @@ SUMMARY:Eric Nussbaum
 UID:ECO_SEMINAR-6a449964-2a63-5e5e-b62d-e7c66034f363
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Macroeconomics
+DESCRIPTION:<b>Title:</b> Labor Income Tax Progressivity with a Large Informal Sector\n<b>Institution:</b> Inter American Development Bank\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/site/marcelozouainpedroni/\n
+DTEND:20260924T163000Z
+LOCATION:GE 106
+DTSTART:20260924T151000Z
+SUMMARY:Marcelo Pedroni
+UID:ECO_SEMINAR-db612896-f65c-55d8-a1f7-aacdc2f94c39
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Paris School of Economics\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/nvellodi\n
 DTEND:20270302T173000Z
@@ -918,5 +945,14 @@ LOCATION:GE 106
 DTSTART:20261119T161000Z
 SUMMARY:Ezra Overfield
 UID:ECO_SEMINAR-74b446a6-8d88-57d8-8315-a0796525ebf7
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> Sequential Screening with Limited Commitment\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DTEND:20261104T180000Z
+LOCATION:GE 106
+DTSTART:20261104T171000Z
+SUMMARY:Ding Li
+UID:ECO_SEMINAR-2750438b-8878-52a3-8c89-e55167e01bd2
 END:VEVENT
 END:VCALENDAR
