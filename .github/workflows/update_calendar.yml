@@ -22,7 +22,12 @@ jobs:
         run: pip install requests beautifulsoup4 ics
 
       - name: Run scraper
-        run: python seminarcal_scraper.py
+        run: |
+          cp seminars.ics /tmp/seminars_before.ics
+          python seminarcal_scraper.py
+
+      - name: Report new seminars
+        run: python diff_report.py /tmp/seminars_before.ics seminars.ics
 
       - name: Commit and push if changed
         run: |

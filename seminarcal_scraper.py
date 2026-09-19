@@ -7,7 +7,7 @@ import requests
 from bs4 import BeautifulSoup, Tag
 from ics import Calendar, Event
 
-URL = "https://www.economics.utoronto.ca/index.php/index/research/seminars"
+URL = "https://www.economics.utoronto.ca/index.php/index/research/seminars?dateRange=2026&seriesId=0"
 TORONTO_TZ = ZoneInfo("America/Toronto")
 SERIES_TAG = "ECO_SEMINAR"
 UID_NAMESPACE = uuid.UUID("b59e11d6-02b2-4d26-9e9b-4c233a33e313")
@@ -79,6 +79,14 @@ def parse_datetime_location(
     if start_datetime.hour < 9:
         start_datetime += timedelta(hours=12)
         end_datetime += timedelta(hours=12)
+
+    # Older entries sometimes have an end time that is not after the start
+    # (e.g. "12:10-01:30", or start == end). Try the same 12-hour fix on the
+    # end time, and otherwise fall back to a one-hour seminar.
+    if end_datetime <= start_datetime:
+        end_datetime += timedelta(hours=12)
+        if end_datetime <= start_datetime or end_datetime - start_datetime > timedelta(hours=6):
+            end_datetime = start_datetime + timedelta(hours=1)
 
     return start_datetime, end_datetime, location
 
@@ -258,7 +266,7 @@ def add_seminar_event(cal: Calendar, seminar: SeminarDict) -> None:
     event.location = location_value if isinstance(location_value, str) else None
     series_value = seminar.get("series")
     series_category = series_value if isinstance(series_value, str) else ""
-    event.categories = {SERIES_TAG, series_category}
+    event.categories = sorted({SERIES_TAG, series_category})
     event.uid = f"{SERIES_TAG}-{stable_uid}"
     event.description = (
         title_part
@@ -284,6 +292,29 @@ def build_calendar(seminars: list[SeminarDict]) -> Calendar:
     for seminar in seminars:
         add_seminar_event(cal, seminar)
     return cal
+
+
+def serialize_sorted(cal: Calendar) -> str:
+    """Serialize *cal* with events in a stable (start time, UID) order.
+
+    ``Calendar.events`` is an unordered set, so the default serialization
+    reshuffles events whenever the set changes, producing noisy git diffs.
+    """
+    text = cal.serialize()
+    head, sep, rest = text.partition("BEGIN:VEVENT")
+    if not sep:
+        return text
+    body, end_sep, tail = (sep + rest).rpartition("END:VCALENDAR")
+    blocks = re.findall(r"BEGIN:VEVENT.*?END:VEVENT\r?\n?", body, flags=re.S)
+
+    def key(block: str) -> tuple[str, str]:
+        start = re.search(r"^DTSTART[^:]*:(\S+)", block, flags=re.M)
+        uid = re.search(r"^UID:(\S+)", block, flags=re.M)
+        return (start.group(1) if start else "", uid.group(1) if uid else "")
+
+    nl = "\r\n" if "\r\n" in text else "\n"
+    blocks = [b if b.endswith("\n") else b + nl for b in blocks]
+    return head + "".join(sorted(blocks, key=key)) + end_sep + tail
 
 
 # ---------- Main ----------
@@ -312,7 +343,7 @@ def main() -> None:
     cal = build_calendar(seminars)
 
     with open("seminars.ics", "w", encoding="utf-8") as f:
-        f.write(cal.serialize())
+        f.write(serialize_sorted(cal))
 
     print("💾 Calendar saved to seminars.ics")
 
