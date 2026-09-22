@@ -138,21 +138,21 @@ UID:ECO_SEMINAR-477e2536-b01f-5672-9ca0-8fd0c03d8912
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> Evaluating the Impact of Regulatory Policies on Social Welfare in Difference-in-Difference Settings(joint with Desire Kedagni\, Ismael Mourifie)\n<b>Institution:</b> University of California Davis\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://are.ucdavis.edu/people/faculty/dalia-ghanem/\n
+DESCRIPTION:<b>Title:</b> <a href="https://arxiv.org/pdf/2306.04494">Evaluating the Impact of Regulatory Policies on Social Welfare in Difference-in-Difference Settings(joint with Desire Kedagni\, Ismael Mourifie)</a>\n<b>Institution:</b> University of California Davis\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://are.ucdavis.edu/people/faculty/dalia-ghanem/\n
 DTEND:20260925T193000Z
 LOCATION:GE 106
 DTSTART:20260925T181000Z
 SUMMARY:Dalia Ghanem
-UID:ECO_SEMINAR-3928477b-bc3b-5a0a-8834-4a13a1bf3cbf
+UID:ECO_SEMINAR-6aa408d0-91c8-5427-9182-17edc91f63f8
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
+DESCRIPTION:<b>Title:</b> Exploitation Payoffs and Incentives for Exploration(joint with Jangwoo Lee)\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
 DTSTART:20260929T151000Z
 SUMMARY:Willie Fuchs
-UID:ECO_SEMINAR-75777e90-e2df-50af-8de9-fe6a7e84030e
+UID:ECO_SEMINAR-9c0c7b63-dc5c-5c46-bfa3-cabed1415787
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -183,12 +183,12 @@ UID:ECO_SEMINAR-353bf555-49d9-5783-a526-f06f5fb87276
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
+DESCRIPTION:<b>Title:</b> IneQuality: The Distributional Consequences of Market Power(joint with Alessandra Peter)\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
 DTEND:20261001T163000Z
 LOCATION:GE 106
 DTSTART:20261001T151000Z
 SUMMARY:Gideon Bornstein
-UID:ECO_SEMINAR-b401b679-10af-59dd-bdb2-b0d3f6114efc
+UID:ECO_SEMINAR-ad38a1b4-ef20-5462-9a3a-9cb438aed3e8
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
