@@ -120,12 +120,12 @@ UID:ECO_SEMINAR-db612896-f65c-55d8-a1f7-aacdc2f94c39
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Impact of On-Street Charging Stations on EV Adoption(joint with Hugo Cordeau\, Katalin Springel)\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20260924T183500Z
 LOCATION:GE 106
 DTSTART:20260924T181000Z
 SUMMARY:Eric Nussbaum
-UID:ECO_SEMINAR-04a0420d-48de-5b0e-ad6d-9ab8e1ae2418
+UID:ECO_SEMINAR-3931d0e7-6562-5f77-88d6-402a8f2f7946
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Special lecture
@@ -174,12 +174,12 @@ UID:ECO_SEMINAR-8eb29120-5ac3-511e-8169-1949271ab531
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/timothymcquade/home\n
+DESCRIPTION:<b>Title:</b> <a href="https://conference.nber.org/conf_papers/f239726/f239726.pdf">Deposit Competition Beyond Rates(joint with Matteo Benetton\, Benjamin Hebert)</a>\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/timothymcquade/home\n
 DTEND:20260930T193000Z
 LOCATION:GE 106
 DTSTART:20260930T181000Z
 SUMMARY:Timothy McQuade
-UID:ECO_SEMINAR-353bf555-49d9-5783-a526-f06f5fb87276
+UID:ECO_SEMINAR-fe180f2e-2655-5663-866c-7bda576542e6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -254,6 +254,15 @@ SUMMARY:Javier Cravino
 UID:ECO_SEMINAR-92bcb2d2-fbcf-5d8f-b4a6-bb6d5718da89
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Climate economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> Electricity Distribution in the Energy Transition: Revisiting Productivity Growth in Ontario\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261008T163000Z
+LOCATION:GE 106
+DTSTART:20261008T151000Z
+SUMMARY:Frederik Dufour
+UID:ECO_SEMINAR-13e6d484-2bff-507a-b4aa-451703dc89a6
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> http://rotman.utoronto.ca/programs/phd-program/phd-student-profiles/jordan-hutchings/\n
 DTEND:20261008T174500Z
@@ -309,12 +318,12 @@ UID:ECO_SEMINAR-1c025976-d0a3-565a-9949-187b348ec03e
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Insure or Adapt? Household Balance Sheets and the Flood Risk Teadeoff\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261015T190000Z
 LOCATION:GE 106
 DTSTART:20261015T181000Z
 SUMMARY:Ayaka Behro
-UID:ECO_SEMINAR-932a3e2c-6368-5680-ad72-e1705ce70d50
+UID:ECO_SEMINAR-a2f74a6a-6128-565a-88b9-4071b57af5d0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -363,12 +372,12 @@ UID:ECO_SEMINAR-76a15435-3e85-5429-a03c-d1cf822219e3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Does Carbon Pricing Clean the Air? Evidence from China’s Pilot ETS\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261022T190000Z
 LOCATION:GE 106
 DTSTART:20261022T181000Z
 SUMMARY:Shun Wing Wong
-UID:ECO_SEMINAR-99db4cd5-1ba2-508e-bf05-50065518850c
+UID:ECO_SEMINAR-cc8ffeee-2aa0-5c8e-8a75-f88db46f64aa
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -417,12 +426,12 @@ UID:ECO_SEMINAR-b27fb030-ed8f-5d5f-ae79-9bc0fd15a6df
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Carbon Paradox of Clean Incentives: Evidence from Ethanol\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261029T193000Z
 LOCATION:GE 106
 DTSTART:20261029T181000Z
 SUMMARY:Mohammad Seyedsalehi
-UID:ECO_SEMINAR-5d204fe4-2aed-5661-b13f-3ea5382a4d69
+UID:ECO_SEMINAR-abf78813-44cd-5c85-9ad2-008cd68371c5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
@@ -687,12 +696,12 @@ UID:ECO_SEMINAR-f9f7688e-070d-53a7-8b58-e4cf1d804f6f
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Transportation Network Investment Under Climate Risk\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261126T200000Z
 LOCATION:GE 106
 DTSTART:20261126T191000Z
 SUMMARY:Derek Thiele
-UID:ECO_SEMINAR-fd4c01b9-cf02-5500-9dfc-68b3b2e4c410
+UID:ECO_SEMINAR-b29fe345-4acc-5d55-b672-d6bba6f1a893
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -759,12 +768,12 @@ UID:ECO_SEMINAR-e6af3b20-beaa-59e9-93b2-3b7bec984552
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Effect of Local Elections on Deforestation\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261210T200000Z
 LOCATION:GE 106
 DTSTART:20261210T191000Z
 SUMMARY:Vahid Dehghani
-UID:ECO_SEMINAR-0c8764da-28a0-5e82-a60c-eae9389e5db8
+UID:ECO_SEMINAR-b8458cdf-83aa-514f-b700-e47c0e11ea11
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
