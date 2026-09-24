@@ -183,12 +183,12 @@ UID:ECO_SEMINAR-fe180f2e-2655-5663-866c-7bda576542e6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> IneQuality: The Distributional Consequences of Market Power(joint with Alessandra Peter)\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
+DESCRIPTION:<b>Title:</b> <a href="https://gideon-bornstein.com/papers/BMP_July2026.pdf">Bank Market Power(joint with Luigi Bocola\, Cedomir Malgieri\, Federico Puglisi)</a>\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
 DTEND:20261001T163000Z
 LOCATION:GE 106
 DTSTART:20261001T151000Z
 SUMMARY:Gideon Bornstein
-UID:ECO_SEMINAR-ad38a1b4-ef20-5462-9a3a-9cb438aed3e8
+UID:ECO_SEMINAR-c5290bea-5964-56fb-ad90-f207040df207
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -579,21 +579,21 @@ UID:ECO_SEMINAR-1ad39c03-e576-54a9-9b60-b6029ea39b3d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Car and Trip Choices\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T193500Z
 LOCATION:GE 106
 DTSTART:20261112T191000Z
 SUMMARY:Bingyao Liu
-UID:ECO_SEMINAR-52544bfb-45e2-546a-8a82-43c6c95ae0f6
+UID:ECO_SEMINAR-9390cd48-4202-55b5-9260-1b0d698bb442
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> How Public Policy Shapes Timber Harvesting Dynamics: Evidence from British Columbia\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T200000Z
 LOCATION:GE 106
 DTSTART:20261112T193500Z
 SUMMARY:Ben Lauzon
-UID:ECO_SEMINAR-5e080557-a7e9-5a50-ae71-2b27b9c5384a
+UID:ECO_SEMINAR-e7e38e2a-eb61-539e-b918-e1ada7e1dfe2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
