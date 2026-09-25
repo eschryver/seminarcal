@@ -146,6 +146,15 @@ SUMMARY:Dalia Ghanem
 UID:ECO_SEMINAR-6aa408d0-91c8-5427-9182-17edc91f63f8
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline\n<b>Institution:</b> University of Melbourne\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.google.com/view/dprbyrne/home\n
+DTEND:20260928T203000Z
+LOCATION:RT 147
+DTSTART:20260928T191000Z
+SUMMARY:David P. Byrne
+UID:ECO_SEMINAR-b42013d9-fad1-5dac-ab9a-68d564e9c88c
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> Exploitation Payoffs and Incentives for Exploration(joint with Jangwoo Lee)\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
@@ -201,12 +210,12 @@ UID:ECO_SEMINAR-07b9652a-d2af-5e6a-a884-6c473b902b39
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Delaware\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://existencia.org/pro/\n
+DESCRIPTION:<b>Title:</b> Economic disparities in a warming world: a meta-analysis of GDP impacts\n<b>Institution:</b> University of Delaware\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://existencia.org/pro/\n
 DTEND:20261001T193000Z
 LOCATION:GE 106
 DTSTART:20261001T181000Z
 SUMMARY:James Rising
-UID:ECO_SEMINAR-1be684cd-f1f8-5f08-8ace-efd18a8f06e9
+UID:ECO_SEMINAR-363cffdc-d204-539d-81ac-f7a4ea01f5a6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -216,6 +225,15 @@ LOCATION:GE 106
 DTSTART:20261002T151000Z
 SUMMARY:Yanzun Yang
 UID:ECO_SEMINAR-cfe4c453-43b7-5fee-9416-9db88a4f4534
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.northwestern.edu/ieh758/\n
+DTEND:20261005T203000Z
+LOCATION:RT 147
+DTSTART:20261005T191000Z
+SUMMARY:Igal Hendel
+UID:ECO_SEMINAR-d82ee196-fe38-5c14-bf0d-cb0e33021023
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Development economics,ECO_SEMINAR
@@ -344,6 +362,15 @@ SUMMARY:Grant Benjamin
 UID:ECO_SEMINAR-55f0611e-ae1b-5905-b74d-8fc6819e3827
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> The Carbon Paradox of Clean Incentives: Evidence from Ethanol\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://smhssalehi.com/\n
+DTEND:20261019T203000Z
+LOCATION:RT 147
+DTSTART:20261019T191000Z
+SUMMARY:Mohammad Seyedsalehi
+UID:ECO_SEMINAR-2364e2e7-8158-555f-a7ea-1eec3c0aa131
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
 DTEND:20261020T163000Z
@@ -398,6 +425,15 @@ SUMMARY:Xiaoxia Shi
 UID:ECO_SEMINAR-572c4b32-077c-5a07-bcc6-6e91ee572c60
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> Rare Disease Policy: The Role of Multi-Indication and Economies of Scope in Drug development(joint with Victor Aguirregabiria)\n<b>Institution:</b> McGill University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.google.com/view/fang-jie\n
+DTEND:20261026T203000Z
+LOCATION:RT 147
+DTSTART:20261026T191000Z
+SUMMARY:Jie Fang
+UID:ECO_SEMINAR-471e4726-5232-5ba9-8fb0-5eee885dc854
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Gustavo Bobonis\, Stephan Heblich\, Runjing Lu\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002540\n
 DTEND:20261027T193000Z
@@ -441,6 +477,15 @@ LOCATION:GE 106
 DTSTART:20261030T181000Z
 SUMMARY:Atom Vayalinkal
 UID:ECO_SEMINAR-85d4a42a-5adc-536c-be6c-18e3c4fddb2d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> Fewer Buyers\, Higher Pay? Monopsony and Product Market Power in the U.S. Publishing Industry\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://maximilianomachado.github.io/\n
+DTEND:20261102T173000Z
+LOCATION:RT 147
+DTSTART:20261102T161000Z
+SUMMARY:Maximiliano Machado
+UID:ECO_SEMINAR-20c2ca98-505b-55e2-a1fa-a84f6eeb7bae
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
@@ -504,6 +549,15 @@ LOCATION:GE 106
 DTSTART:20261106T191000Z
 SUMMARY:Filip Obradovic
 UID:ECO_SEMINAR-b04b01a8-4e8e-5e5b-a964-da574e0778ae
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Stanford University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://rebekahanne.github.io/\n
+DTEND:20261109T213000Z
+LOCATION:RT 147
+DTSTART:20261109T201000Z
+SUMMARY:Rebekah Dix
+UID:ECO_SEMINAR-f69c4493-0cc5-56e2-8967-711288b2dd2f
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
@@ -605,6 +659,15 @@ SUMMARY:Yi Xin
 UID:ECO_SEMINAR-640907ee-04d5-5209-aa61-bd12685b9ff2
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/cameron-chahal/\n
+DTEND:20261116T213000Z
+LOCATION:RT 147
+DTSTART:20261116T201000Z
+SUMMARY:Cameron Chahal
+UID:ECO_SEMINAR-20b6e3d3-0ff2-5511-80d0-c2e3e9a9bea5
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
 DTEND:20261117T173000Z
@@ -659,6 +722,15 @@ SUMMARY:Yanqin Fan
 UID:ECO_SEMINAR-2f88a93c-3fa2-54ce-b1ea-f1a067ed0c1a
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudent/1002691\n
+DTEND:20261123T213000Z
+LOCATION:RT 147
+DTSTART:20261123T201000Z
+SUMMARY:Nanxi Fu
+UID:ECO_SEMINAR-315e1bfa-9be2-5c3c-b509-cf5ec086a46c
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Indiana University\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/seoheekim\n
 DTEND:20261124T170000Z
@@ -711,6 +783,15 @@ LOCATION:GE 106
 DTSTART:20261127T161000Z
 SUMMARY:Kelly Foley
 UID:ECO_SEMINAR-224dcc80-d931-5c30-be89-978d93b44d5a
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Industrial organization
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002356\n
+DTEND:20261130T213000Z
+LOCATION:RT 147
+DTSTART:20261130T201000Z
+SUMMARY:Sixia Xi
+UID:ECO_SEMINAR-d5b10a26-35bd-5fbb-9f5f-1ba64fcb4a9d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
