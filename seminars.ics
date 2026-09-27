@@ -219,12 +219,12 @@ UID:ECO_SEMINAR-363cffdc-d204-539d-81ac-f7a4ea01f5a6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://www.linkedin.com/in/yanzun-yang-346534375/\n
+DESCRIPTION:<b>Title:</b> <a href="https://drive.google.com/file/d/1y-ecbVXSPEB2AU1Pa2woQS5cdM3PeU6j/view?usp=drive_link">The Impact of Arriving During Recessions on Immigrant Integration</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\, Philip Oreopoulos\n<b>Speaker link:</b> https://www.linkedin.com/in/yanzun-yang-346534375/\n
 DTEND:20261002T163000Z
 LOCATION:GE 106
 DTSTART:20261002T151000Z
 SUMMARY:Yanzun Yang
-UID:ECO_SEMINAR-cfe4c453-43b7-5fee-9416-9db88a4f4534
+UID:ECO_SEMINAR-80862359-31dc-51ce-a494-040f50520977
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -803,6 +803,15 @@ SUMMARY:Beixi Zhou
 UID:ECO_SEMINAR-a16c959e-9a9a-58b8-af6d-9eb363f67bb3
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Behavioural economics\, Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261202T180000Z
+LOCATION:GE 106
+DTSTART:20261202T171000Z
+SUMMARY:Shanshan Liu
+UID:ECO_SEMINAR-c8fdb3df-faa9-5364-a7b7-c94e3a36ee23
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261203T181500Z
@@ -837,6 +846,33 @@ LOCATION:RT 157
 DTSTART:20261208T154000Z
 SUMMARY:Matthew Staiger
 UID:ECO_SEMINAR-613db7b7-ae9e-5e9e-b8b0-94a00855b318
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261209T170000Z
+LOCATION:GE 106
+DTSTART:20261209T163000Z
+SUMMARY:Alim Faraji
+UID:ECO_SEMINAR-e965a778-f1da-5353-9753-4643fd573b0d
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261209T173500Z
+LOCATION:GE 106
+DTSTART:20261209T171000Z
+SUMMARY:Rubi Hudson
+UID:ECO_SEMINAR-ad8035dc-3a2c-536d-acad-2670e70d1b17
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Theory workshop
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261209T180000Z
+LOCATION:GE 106
+DTSTART:20261209T173500Z
+SUMMARY:Krithika Ragupathi
+UID:ECO_SEMINAR-891aeec2-daef-5260-8ac2-7e19e100222c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
