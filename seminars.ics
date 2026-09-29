@@ -147,21 +147,21 @@ UID:ECO_SEMINAR-6aa408d0-91c8-5427-9182-17edc91f63f8
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> Asymmetric Information Sharing in Oligopoly: A Natural Experiment in Retail Gasoline\n<b>Institution:</b> University of Melbourne\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.google.com/view/dprbyrne/home\n
+DESCRIPTION:<b>Title:</b> Dynamic Demand in Retail Gasoline Markets\n<b>Institution:</b> University of Melbourne\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.google.com/view/dprbyrne/home\n
 DTEND:20260928T203000Z
 LOCATION:RT 147
 DTSTART:20260928T191000Z
 SUMMARY:David P. Byrne
-UID:ECO_SEMINAR-b42013d9-fad1-5dac-ab9a-68d564e9c88c
+UID:ECO_SEMINAR-673072ed-231a-56a8-b979-1ea40e93da2b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> Exploitation Payoffs and Incentives for Exploration(joint with Jangwoo Lee)\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/25995">Exploitation Payoffs and Incentives for Exploration(joint with Jangwoo Lee)</a>\n<b>Institution:</b> University of Texas at Austin McCombs School of Business\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/wfuchs/\n
 DTEND:20260929T163000Z
 LOCATION:GE 106
 DTSTART:20260929T151000Z
 SUMMARY:Willie Fuchs
-UID:ECO_SEMINAR-9c0c7b63-dc5c-5c46-bfa3-cabed1415787
+UID:ECO_SEMINAR-fa6d2d48-8fca-57f5-a947-edd806074d02
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -228,12 +228,12 @@ UID:ECO_SEMINAR-80862359-31dc-51ce-a494-040f50520977
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.northwestern.edu/ieh758/\n
+DESCRIPTION:<b>Title:</b> What Prevents Health Insurance Take-up? Quantifying Frictions and Policy Responses\n<b>Institution:</b> Northwestern University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://sites.northwestern.edu/ieh758/\n
 DTEND:20261005T203000Z
 LOCATION:RT 147
 DTSTART:20261005T191000Z
 SUMMARY:Igal Hendel
-UID:ECO_SEMINAR-d82ee196-fe38-5c14-bf0d-cb0e33021023
+UID:ECO_SEMINAR-ead9b270-c6ff-505d-b61e-8b5012aa906a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Development economics,ECO_SEMINAR
