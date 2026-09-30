@@ -255,21 +255,21 @@ UID:ECO_SEMINAR-a6a11ac3-c9f0-5579-bf43-43b8a5d33621
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Theory workshop\, Yoram Halevy\n<b>Speaker link:</b> https://teel.economics.utoronto.ca/xiaoya-gao/\n
+DESCRIPTION:<b>Title:</b> Incentive Compatibility in Experiments with Incomplete Preferences\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Theory workshop\, Yoram Halevy\n<b>Speaker link:</b> https://teel.economics.utoronto.ca/xiaoya-gao/\n
 DTEND:20261007T163000Z
 LOCATION:GE 106
 DTSTART:20261007T151000Z
 SUMMARY:Xiaoya Gao
-UID:ECO_SEMINAR-20365073-da57-5131-8f8d-674dfddbb5f3
+UID:ECO_SEMINAR-62c971ea-8035-5f2d-9143-eaa3b469e957
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/25971">The Economic Impact of Mass Deportations(joint with Levchenko \, Ortega\, and Pandalai-Nayar)</a>\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
 DTEND:20261007T163000Z
 LOCATION:RT LL1020
 DTSTART:20261007T151000Z
 SUMMARY:Javier Cravino
-UID:ECO_SEMINAR-92bcb2d2-fbcf-5d8f-b4a6-bb6d5718da89
+UID:ECO_SEMINAR-6fec58d6-1c67-5bee-86a4-7b8e23230ac9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
