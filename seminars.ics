@@ -192,12 +192,12 @@ UID:ECO_SEMINAR-fe180f2e-2655-5663-866c-7bda576542e6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> <a href="https://gideon-bornstein.com/papers/BMP_July2026.pdf">Bank Market Power(joint with Luigi Bocola\, Cedomir Malgieri\, Federico Puglisi)</a>\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
+DESCRIPTION:<b>Title:</b> <a href="https://gideon-bornstein.com/papers/Bank_Market_Power.pdf">Bank Market Power(joint with Luigi Bocola\, Cedomir Malgieri\, Federico Puglisi)</a>\n<b>Institution:</b> Wharton\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://gideon-bornstein.com\n
 DTEND:20261001T163000Z
 LOCATION:GE 106
 DTSTART:20261001T151000Z
 SUMMARY:Gideon Bornstein
-UID:ECO_SEMINAR-c5290bea-5964-56fb-ad90-f207040df207
+UID:ECO_SEMINAR-b25349f5-9fcd-5cbe-a4ca-747f18a3f26b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
