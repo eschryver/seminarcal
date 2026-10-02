@@ -246,12 +246,12 @@ UID:ECO_SEMINAR-1c0067aa-76f3-59d9-9cc4-ab66679fdf10
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
+DESCRIPTION:<b>Title:</b> Export Controls and the Economics of National Security(joint with Jingting Fan and Kyle Handley)\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
 DTEND:20261007T160000Z
 LOCATION:RT LL1020
 DTSTART:20261007T143000Z
 SUMMARY:Nuno Limao
-UID:ECO_SEMINAR-a6a11ac3-c9f0-5579-bf43-43b8a5d33621
+UID:ECO_SEMINAR-f4e3a83d-61f1-57f8-9605-e4649ba52965
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
@@ -265,20 +265,11 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
 DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/25971">The Economic Impact of Mass Deportations(joint with Levchenko \, Ortega\, and Pandalai-Nayar)</a>\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
-DTEND:20261007T163000Z
+DTEND:20261007T190000Z
 LOCATION:RT LL1020
-DTSTART:20261007T151000Z
+DTSTART:20261007T173000Z
 SUMMARY:Javier Cravino
-UID:ECO_SEMINAR-6fec58d6-1c67-5bee-86a4-7b8e23230ac9
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Electricity Distribution in the Energy Transition: Revisiting Productivity Growth in Ontario\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
-DTEND:20261008T163000Z
-LOCATION:GE 106
-DTSTART:20261008T151000Z
-SUMMARY:Frederik Dufour
-UID:ECO_SEMINAR-13e6d484-2bff-507a-b4aa-451703dc89a6
+UID:ECO_SEMINAR-adcd87d6-64df-5dd2-ba90-9bafdb9403d0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -290,13 +281,22 @@ SUMMARY:Jordan Hutchings
 UID:ECO_SEMINAR-f150308a-3201-525e-bbd9-0eccd18fb638
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:Climate economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> Electricity Distribution in the Energy Transition: Revisiting Productivity Growth in Ontario(joint with Michael Scafe and Adonis Yatchew)\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DTEND:20261008T190000Z
+LOCATION:GE 106
+DTSTART:20261008T181000Z
+SUMMARY:Frederik Dufour
+UID:ECO_SEMINAR-f1432951-7c07-5600-9b7c-b9a14b9b42f7
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Shari Eli\, Stephan Heblich\, Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/view/harrisonc\n
+DESCRIPTION:<b>Title:</b> <a href="https://drive.google.com/file/d/1YXC4Nbfb5hmimdKfIO2cGGFmOg3luAn3/view?usp=sharing">Economic Depression and Labor Union Formation: Evidence from the Panic of 1873</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Shari Eli\, Stephan Heblich\, Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/view/harrisonc\n
 DTEND:20261009T163000Z
 LOCATION:GE 106
 DTSTART:20261009T151000Z
 SUMMARY:Harrison Chang
-UID:ECO_SEMINAR-27e49d3a-da7d-5e9c-ad4d-924c0f3b0b0f
+UID:ECO_SEMINAR-ee537efa-c933-5ebf-bb07-99699e4ed3a9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
@@ -682,7 +682,7 @@ DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Cornell University\n<b>Series
 DTEND:20261119T173000Z
 LOCATION:GE 106
 DTSTART:20261119T161000Z
-SUMMARY:Ezra Overfield
+SUMMARY:Ezra Oberfield
 UID:ECO_SEMINAR-74b446a6-8d88-57d8-8315-a0796525ebf7
 END:VEVENT
 BEGIN:VEVENT
