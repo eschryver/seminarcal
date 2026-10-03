@@ -300,12 +300,12 @@ UID:ECO_SEMINAR-ee537efa-c933-5ebf-bb07-99699e4ed3a9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Harvard\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://dviviano.github.io/\n
+DESCRIPTION:<b>Title:</b> <a href="https://arxiv.org/abs/2510.23434">Learning what to learn: designing experiments combined with observational evidence and measuring the value of data collection(joint with Aristotelis Epanomeritakis)</a>\n<b>Institution:</b> Harvard\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://dviviano.github.io/\n
 DTEND:20261009T193000Z
 LOCATION:GE 106
 DTSTART:20261009T181000Z
 SUMMARY:Davide Viviano
-UID:ECO_SEMINAR-979d6019-ab7c-57c6-bebc-9fea072caa89
+UID:ECO_SEMINAR-71c9d016-8368-5316-a206-f2a72880092b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -315,6 +315,15 @@ LOCATION:GE 106
 DTSTART:20261013T181000Z
 SUMMARY:Rawnak Amin
 UID:ECO_SEMINAR-9ebb468e-c55a-5f51-a0f4-4ffc5cb7acfa
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Behavioural economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://www.brendeneum.com/\n
+DTEND:20261014T160000Z
+LOCATION:GE 106
+DTSTART:20261014T151000Z
+SUMMARY:Brenden Eum
+UID:ECO_SEMINAR-80daae78-b248-57e5-b146-c5d321229938
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -387,6 +396,15 @@ LOCATION:GE 106
 DTSTART:20261020T181000Z
 SUMMARY:Roberto Galbiat
 UID:ECO_SEMINAR-441fea67-5c6a-5b4d-bc60-9b931702466f
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Behavioural economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Technion\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://oriplonsky.com/\n
+DTEND:20261021T170000Z
+LOCATION:GE 106
+DTSTART:20261021T161000Z
+SUMMARY:Ori Plonsky
+UID:ECO_SEMINAR-eb7ecd45-de7b-50f4-923d-b2fc36eb409b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
