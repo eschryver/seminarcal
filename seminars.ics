@@ -245,15 +245,6 @@ SUMMARY:Danila Serra
 UID:ECO_SEMINAR-1c0067aa-76f3-59d9-9cc4-ab66679fdf10
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> Export Controls and the Economics of National Security(joint with Jingting Fan and Kyle Handley)\n<b>Institution:</b> Georgetown University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/georgetown.edu/limao/\n
-DTEND:20261007T160000Z
-LOCATION:RT LL1020
-DTSTART:20261007T143000Z
-SUMMARY:Nuno Limao
-UID:ECO_SEMINAR-f4e3a83d-61f1-57f8-9605-e4649ba52965
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
 DESCRIPTION:<b>Title:</b> Incentive Compatibility in Experiments with Incomplete Preferences\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Theory workshop\, Yoram Halevy\n<b>Speaker link:</b> https://teel.economics.utoronto.ca/xiaoya-gao/\n
 DTEND:20261007T163000Z
@@ -309,21 +300,21 @@ UID:ECO_SEMINAR-71c9d016-8368-5316-a206-f2a72880092b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\, Tianyi Wang\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudent/1002675\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26002">The Mill Family Revisited: Outcomes and Evidence from the North Carolina Textile Industry</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\, Tianyi Wang\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudent/1002675\n
 DTEND:20261013T193000Z
 LOCATION:GE 106
 DTSTART:20261013T181000Z
 SUMMARY:Rawnak Amin
-UID:ECO_SEMINAR-9ebb468e-c55a-5f51-a0f4-4ffc5cb7acfa
+UID:ECO_SEMINAR-61d47794-379f-569f-aabe-4e16b1c8cf4a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://www.brendeneum.com/\n
+DESCRIPTION:<b>Title:</b> The (In)visible Hand of Cognition: Offer Times Encourage Allocative Efficiency(joint with Ryan Oprea\, Ryan Webb)\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://www.brendeneum.com/\n
 DTEND:20261014T160000Z
 LOCATION:GE 106
 DTSTART:20261014T151000Z
 SUMMARY:Brenden Eum
-UID:ECO_SEMINAR-80daae78-b248-57e5-b146-c5d321229938
+UID:ECO_SEMINAR-269b47db-163d-5751-ba76-7748c8a1c6f6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -684,6 +675,15 @@ LOCATION:RT 147
 DTSTART:20261116T201000Z
 SUMMARY:Cameron Chahal
 UID:ECO_SEMINAR-20b6e3d3-0ff2-5511-80d0-c2e3e9a9bea5
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Development economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://miguelortizp.github.io/\n
+DTEND:20261117T173000Z
+LOCATION:GE 106
+DTSTART:20261117T161000Z
+SUMMARY:Miguel Ortiz
+UID:ECO_SEMINAR-25c86d97-2716-5742-ab28-2aea1ec4d49b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
