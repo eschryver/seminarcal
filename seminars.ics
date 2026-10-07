@@ -255,12 +255,12 @@ UID:ECO_SEMINAR-62c971ea-8035-5f2d-9143-eaa3b469e957
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/25971">The Economic Impact of Mass Deportations(joint with Levchenko \, Ortega\, and Pandalai-Nayar)</a>\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
-DTEND:20261007T190000Z
+DESCRIPTION:<b>Title:</b> The Economic Impact of Mass Deportations(joint with Levchenko \, Ortega\, and Pandalai-Nayar)\n<b>Institution:</b> University of Michigan\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/a/umich.edu/javiercravino/home\n
+DTEND:20261007T163000Z
 LOCATION:RT LL1020
-DTSTART:20261007T173000Z
+DTSTART:20261007T151000Z
 SUMMARY:Javier Cravino
-UID:ECO_SEMINAR-adcd87d6-64df-5dd2-ba90-9bafdb9403d0
+UID:ECO_SEMINAR-b0942a64-070a-5529-b021-c66be1454d3a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
