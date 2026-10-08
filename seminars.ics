@@ -327,12 +327,12 @@ UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Texas at Austin\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/view/pfaeuti/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.oliverpfaeuti.com/website/PfaeutiWu.pdf">Inattentive Price Setting and Inflation under Fiscal Policy Uncertainty(joint with Edson Wu)</a>\n<b>Institution:</b> University of Texas at Austin\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Michael Boutros\, Sebastian Dyrda\n<b>Speaker link:</b> https://sites.google.com/view/pfaeuti/\n
 DTEND:20261015T163000Z
 LOCATION:GE 106
 DTSTART:20261015T151000Z
 SUMMARY:Oliver Pfäuti
-UID:ECO_SEMINAR-1c025976-d0a3-565a-9949-187b348ec03e
+UID:ECO_SEMINAR-64f7a16e-5d85-55ff-a3ad-47174f7f1b31
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
