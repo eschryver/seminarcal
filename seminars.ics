@@ -318,12 +318,12 @@ UID:ECO_SEMINAR-269b47db-163d-5751-ba76-7748c8a1c6f6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
+DESCRIPTION:<b>Title:</b> City buzz: Face-to-face interactions and the urban environment(joint with Javier Alonso\, Daniel Arribas-Bel\, Alba Miñano Mañero\, and Souneil Park)\n<b>Institution:</b> CEMFI (Centre for Monetary and Financial Studies)\, Madrid\n<b>Series:</b> International trade\n<b>Organizers:</b> Urban and real estate economics\, Peter Morrow\, Daniel Trefler\n<b>Speaker link:</b> https://diegopuga.org/\n
 DTEND:20261014T163000Z
 LOCATION:RT 151
 DTSTART:20261014T151000Z
 SUMMARY:Diego Puga
-UID:ECO_SEMINAR-90544f0a-c898-57ef-b5f4-4362dce61f8c
+UID:ECO_SEMINAR-62676fd9-fd6f-5a2b-9f94-af20399705de
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -354,12 +354,12 @@ UID:ECO_SEMINAR-14327895-b33d-5043-992c-4b6c5a570208
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Nathaniel Baum-Snow\, Runjing Lu\n<b>Speaker link:</b> https://grantbenjamin.github.io/\n
+DESCRIPTION:<b>Title:</b> <a href="https://grantbenjamin.github.io/research/OnlyTakesOneBite.pdf">Only Takes OneBite: Attention Shocks in Local Markets</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Nathaniel Baum-Snow\, Runjing Lu\n<b>Speaker link:</b> https://grantbenjamin.github.io/\n
 DTEND:20261016T163000Z
 LOCATION:GE 106
 DTSTART:20261016T151000Z
 SUMMARY:Grant Benjamin
-UID:ECO_SEMINAR-55f0611e-ae1b-5905-b74d-8fc6819e3827
+UID:ECO_SEMINAR-02c7c652-31e0-5eff-908f-0c4b44fcde5f
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -534,12 +534,12 @@ UID:ECO_SEMINAR-5123e66f-8abd-53a4-82d9-7e5000d655ed
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.landfood.ubc.ca/jonathan-proctor/\n
+DESCRIPTION:<b>Title:</b> Locating Climate-Vulnerable Populations by Satellite\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.landfood.ubc.ca/jonathan-proctor/\n
 DTEND:20261105T203000Z
 LOCATION:GE 106
 DTSTART:20261105T191000Z
 SUMMARY:Jon Proctor
-UID:ECO_SEMINAR-abafbdcd-2055-5caf-8dcd-02ba546ddfdf
+UID:ECO_SEMINAR-14dec3d9-7955-538a-96e7-f2d8dfa94ae1
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Public economics / Empirical Microeconomics
