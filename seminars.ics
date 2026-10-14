@@ -372,30 +372,30 @@ UID:ECO_SEMINAR-2364e2e7-8158-555f-a7ea-1eec3c0aa131
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
+DESCRIPTION:<b>Title:</b> On the Power of Mediation in Games\n<b>Institution:</b> Princeton University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://fedors.info/\n
 DTEND:20261020T163000Z
 LOCATION:GE 106
 DTSTART:20261020T151000Z
 SUMMARY:Fedor Sandomirsky
-UID:ECO_SEMINAR-d04020fc-3de4-5194-b0ad-061999671ea7
+UID:ECO_SEMINAR-e0708209-8149-5fe1-9b6b-b621825c79de
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Sciences économiques - Sciences Po\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/view/galbiatir1/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26017">Science under Inquisition: The allocation of talent in early modern Europe(joint with E. Dewitte\, F. Drago\, and G. Zanella)</a>\n<b>Institution:</b> Sciences économiques - Sciences Po\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/view/galbiatir1/\n
 DTEND:20261020T193000Z
 LOCATION:GE 106
 DTSTART:20261020T181000Z
 SUMMARY:Roberto Galbiat
-UID:ECO_SEMINAR-441fea67-5c6a-5b4d-bc60-9b931702466f
+UID:ECO_SEMINAR-b7cca830-cd6f-5a85-bcb0-c8eef85ba8d8
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Technion\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://oriplonsky.com/\n
+DESCRIPTION:<b>Title:</b> Underweighting of rare events in strategic games\n<b>Institution:</b> Technion\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://oriplonsky.com/\n
 DTEND:20261021T170000Z
 LOCATION:GE 106
 DTSTART:20261021T161000Z
 SUMMARY:Ori Plonsky
-UID:ECO_SEMINAR-eb7ecd45-de7b-50f4-923d-b2fc36eb409b
+UID:ECO_SEMINAR-acd57ed5-5f89-502c-ad4d-9264a4b980c0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
