@@ -506,6 +506,15 @@ SUMMARY:Mark Whitmeyer
 UID:ECO_SEMINAR-732d7ac4-de77-54f1-bee9-dda5c36b62fa
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Empirical microeconomics
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
+DTEND:20261103T203000Z
+LOCATION:GE 106
+DTSTART:20261103T191000Z
+SUMMARY:Nicolás Ajzenman
+UID:ECO_SEMINAR-3e0b8484-6932-5694-96b0-140c6302c7e4
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
 DESCRIPTION:<b>Title:</b> Sequential Screening with Limited Commitment\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
 DTEND:20261104T180000Z
@@ -1116,6 +1125,15 @@ LOCATION:RT 157
 DTSTART:20270413T144000Z
 SUMMARY:Peter Christensen
 UID:ECO_SEMINAR-04d7695a-be0b-5fd5-a0c8-5f3bc9494e8e
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Empirical microeconomics
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Simon Fraser University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/fernandoaragon/home\n
+DTEND:20270413T193000Z
+LOCATION:GE 106
+DTSTART:20270413T181000Z
+SUMMARY:Fernando Aragon
+UID:ECO_SEMINAR-85b65d29-9337-5a48-98ad-a6e87b2fbdbe
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
