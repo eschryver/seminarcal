@@ -417,12 +417,12 @@ UID:ECO_SEMINAR-cc8ffeee-2aa0-5c8e-8a75-f88db46f64aa
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Michael Baker\, Runjing Lu\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2334\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26004">Immigration\, Internal Migration\, and the Rental Market</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Michael Baker\, Runjing Lu\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/person/faculty/2334\n
 DTEND:20261023T163000Z
 LOCATION:GE 106
 DTSTART:20261023T151000Z
 SUMMARY:Alison Cane
-UID:ECO_SEMINAR-4107b3de-a79b-5201-be87-8dd0e36ab92c
+UID:ECO_SEMINAR-8d0d677b-5630-5a8e-ad82-a08d0c5090c7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
