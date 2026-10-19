@@ -385,7 +385,7 @@ DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/i
 DTEND:20261020T193000Z
 LOCATION:GE 106
 DTSTART:20261020T181000Z
-SUMMARY:Roberto Galbiat
+SUMMARY:Roberto Galbiati
 UID:ECO_SEMINAR-b7cca830-cd6f-5a85-bcb0-c8eef85ba8d8
 END:VEVENT
 BEGIN:VEVENT
@@ -426,12 +426,12 @@ UID:ECO_SEMINAR-8d0d677b-5630-5a8e-ad82-a08d0c5090c7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Wisconsin / Johns Hopkins\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://users.ssc.wisc.edu/~xshi28/\n
+DESCRIPTION:<b>Title:</b> Testing Mediation Effects: A Theoretical Case for Bootstrap Percentile Confidence Interval\n<b>Institution:</b> University of Wisconsin / Johns Hopkins\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://users.ssc.wisc.edu/~xshi28/\n
 DTEND:20261023T193000Z
 LOCATION:GE 106
 DTSTART:20261023T181000Z
 SUMMARY:Xiaoxia Shi
-UID:ECO_SEMINAR-572c4b32-077c-5a07-bcc6-6e91ee572c60
+UID:ECO_SEMINAR-d0f81acd-b969-585f-a9c1-4112b3640783
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
