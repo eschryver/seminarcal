@@ -444,12 +444,12 @@ UID:ECO_SEMINAR-471e4726-5232-5ba9-8fb0-5eee885dc854
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Gustavo Bobonis\, Stephan Heblich\, Runjing Lu\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002540\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.reza-moradi.com/Moradi_JMP.pdf?v=20261020">A Framework for Assessing the Distributional Effects of School Closures: Evidence from Puerto Rico</a>\n<b>Institution:</b> Applied micro practice job talk\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Gustavo Bobonis\, Stephan Heblich\, Runjing Lu\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002540\n
 DTEND:20261027T193000Z
 LOCATION:GE 106
 DTSTART:20261027T181000Z
 SUMMARY:Reza Moradi
-UID:ECO_SEMINAR-2b45ad15-454f-53bc-a992-ea65fedb841c
+UID:ECO_SEMINAR-a880b40a-da57-530d-860d-0caeca70b80e
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -623,6 +623,15 @@ SUMMARY:Elisabeth Kempf
 UID:ECO_SEMINAR-3bc1f7e4-b7fc-5383-8866-33b1ad017c91
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Macroeconomics
+DESCRIPTION:<b>Title:</b> Tariffs and Production Relocation in a Multi-Product Oligopoly\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://www.castrovincenzi.com\n
+DTEND:20261112T173000Z
+LOCATION:GE 106
+DTSTART:20261112T161000Z
+SUMMARY:Juanma Castro-Vincenzi
+UID:ECO_SEMINAR-5d3dcaa3-5171-5cb2-bd42-a13a45d69d58
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T181500Z
@@ -693,6 +702,15 @@ LOCATION:GE 106
 DTSTART:20261117T161000Z
 SUMMARY:Wiola Dziuda
 UID:ECO_SEMINAR-49247cc6-c7bc-57c2-9f9c-b51a68f33231
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Behavioural economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> MIT\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://jesc.huji.ac.il/Guy_Ishai/Ishai.html\n
+DTEND:20261118T173000Z
+LOCATION:GE 106
+DTSTART:20261118T161000Z
+SUMMARY:Guy Ishai
+UID:ECO_SEMINAR-7255b604-b3ea-5deb-91de-553f709a6c9d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
