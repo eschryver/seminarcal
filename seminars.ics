@@ -848,6 +848,15 @@ SUMMARY:Shanshan Liu
 UID:ECO_SEMINAR-c8fdb3df-faa9-5364-a7b7-c94e3a36ee23
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Macroeconomics
+DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> McGill University\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Burhanettin Kuruscu\n<b>Speaker link:</b> https://www.mcgill.ca/economics/markus-poschke\n
+DTEND:20261203T173000Z
+LOCATION:GE 106
+DTSTART:20261203T161000Z
+SUMMARY:Markus Poschke
+UID:ECO_SEMINAR-2a13c470-29ad-5c35-86ad-ea1f29b73fd9
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261203T181500Z
@@ -1089,6 +1098,15 @@ LOCATION:RT 157
 DTSTART:20270331T150000Z
 SUMMARY:Thierry Mayer
 UID:ECO_SEMINAR-e3bde13a-982f-5f0a-9b28-f37b65569ec0
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Macroeconomics
+DESCRIPTION:<b>Title:</b> TBF\n<b>Institution:</b> The University of British Columbia\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Burhanettin Kuruscu\n<b>Speaker link:</b> https://giovannigallipoli.arts.ubc.ca/\n
+DTEND:20270401T163000Z
+LOCATION:GE 106
+DTSTART:20270401T151000Z
+SUMMARY:Giovanni Gallipoli
+UID:ECO_SEMINAR-eef9ccaa-4d09-5f28-a145-336e67729f1d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
