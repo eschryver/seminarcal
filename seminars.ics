@@ -498,12 +498,12 @@ UID:ECO_SEMINAR-20c2ca98-505b-55e2-a1fa-a84f6eeb7bae
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Arizona State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/markwhitmeyer/\n
+DESCRIPTION:<b>Title:</b> <a href="https://whitmeyer.home.blog/wp-content/uploads/2026/09/binsv3.pdf">Bins</a>\n<b>Institution:</b> Arizona State University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/markwhitmeyer/\n
 DTEND:20261103T173000Z
 LOCATION:GE 106
 DTSTART:20261103T161000Z
 SUMMARY:Mark Whitmeyer
-UID:ECO_SEMINAR-732d7ac4-de77-54f1-bee9-dda5c36b62fa
+UID:ECO_SEMINAR-18784387-71b9-5f41-8a9a-16bc12880b8c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
@@ -687,12 +687,12 @@ UID:ECO_SEMINAR-20b6e3d3-0ff2-5511-80d0-c2e3e9a9bea5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Development economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://miguelortizp.github.io/\n
+DESCRIPTION:<b>Title:</b> <a href="https://miguelortizp.github.io/pdf/FearTraps_OrtizAtajiri.pdf">Fear Traps: Evidence from Segregated Markets in Nigeria</a>\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://miguelortizp.github.io/\n
 DTEND:20261117T173000Z
 LOCATION:GE 106
 DTSTART:20261117T161000Z
 SUMMARY:Miguel Ortiz
-UID:ECO_SEMINAR-25c86d97-2716-5742-ab28-2aea1ec4d49b
+UID:ECO_SEMINAR-298feb92-015b-577b-81c5-1e3fea4418e2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
