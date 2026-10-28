@@ -614,6 +614,15 @@ SUMMARY:Sina Kavuncu
 UID:ECO_SEMINAR-ae8788c8-fb10-5069-94ea-c23b95b4c8f7
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,International trade
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
+DTEND:20261111T200000Z
+LOCATION:RT 1065
+DTSTART:20261111T183000Z
+SUMMARY:Eduardo Morales
+UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
 DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Harvard Business School\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/elikempf/\n
 DTEND:20261111T203000Z
