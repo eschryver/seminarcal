@@ -525,12 +525,12 @@ UID:ECO_SEMINAR-2750438b-8878-52a3-8c89-e55167e01bd2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Ohio State\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Joseph Steinberg\n<b>Speaker link:</b> https://gmihalache.com/\n
+DESCRIPTION:<b>Title:</b> World Financial Cycles and Global Trade(joint with Yan Bai\, Chang Liu\, and Minjie Deng)\n<b>Institution:</b> Ohio State\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\, Joseph Steinberg\n<b>Speaker link:</b> https://gmihalache.com/\n
 DTEND:20261105T173000Z
 LOCATION:GE 106
 DTSTART:20261105T161000Z
 SUMMARY:Gabriel Mihalache
-UID:ECO_SEMINAR-428f536f-ca10-579b-aaad-803f8ce63cc3
+UID:ECO_SEMINAR-9a226ff4-eb05-545d-9686-b94949810345
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -624,12 +624,12 @@ UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Harvard Business School\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/elikempf/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26146">CEO Ideology and Global Trade(joint with Mancy Luo\, Margarita Tsoutsoura)</a>\n<b>Institution:</b> Harvard Business School\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Empirical microeconomics\, Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/elikempf/\n
 DTEND:20261111T203000Z
 LOCATION:GE 106
 DTSTART:20261111T191000Z
 SUMMARY:Elisabeth Kempf
-UID:ECO_SEMINAR-3bc1f7e4-b7fc-5383-8866-33b1ad017c91
+UID:ECO_SEMINAR-349159c8-5b2a-5cb7-9179-e46c7d605d37
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
