@@ -507,7 +507,7 @@ UID:ECO_SEMINAR-18784387-71b9-5f41-8a9a-16bc12880b8c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
 DTEND:20261103T203000Z
 LOCATION:GE 106
 DTSTART:20261103T191000Z
@@ -522,6 +522,15 @@ LOCATION:GE 106
 DTSTART:20261104T171000Z
 SUMMARY:Ding Li
 UID:ECO_SEMINAR-2750438b-8878-52a3-8c89-e55167e01bd2
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Econometrics
+DESCRIPTION:<b>Title:</b> Non-parametric Identification of Dynamic Treatment Effects: a Graphical Approach to Causality\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Max Tabord-Meehan\n<b>Speaker link:</b> https://chenyueliu.com\n
+DTEND:20261105T173000Z
+LOCATION:GE 100
+DTSTART:20261105T160000Z
+SUMMARY:Chenyue Liu
+UID:ECO_SEMINAR-33cf0067-a49c-50d4-909c-13aed6294cc1
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -552,12 +561,12 @@ UID:ECO_SEMINAR-14dec3d9-7955-538a-96e7-f2d8dfa94ae1
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Public economics / Empirical Microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> MIT\n<b>Series:</b> Public economics / Empirical Microeconomics\n<b>Organizers:</b> Development economics\, Kory Kroft\, Runjing Lu\n<b>Speaker link:</b> https://danielle.li/\n
+DESCRIPTION:<b>Title:</b> Labor as Capital: AI and the Ownership of Expertise(joint with Zoe Cullen and Shengwu Li)\n<b>Institution:</b> MIT\n<b>Series:</b> Public economics / Empirical Microeconomics\n<b>Organizers:</b> Development economics\, Kory Kroft\, Runjing Lu\n<b>Speaker link:</b> https://danielle.li/\n
 DTEND:20261106T173000Z
 LOCATION:GE 106
 DTSTART:20261106T161000Z
 SUMMARY:Danielle Li
-UID:ECO_SEMINAR-e6a6626f-7643-5ab6-acd7-0eb864673807
+UID:ECO_SEMINAR-4e4895ac-2266-56c7-b493-b627b46ae9ee
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
