@@ -490,11 +490,11 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> Fewer Buyers\, Higher Pay? Monopsony and Product Market Power in the U.S. Publishing Industry\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://maximilianomachado.github.io/\n
-DTEND:20261102T173000Z
+DTEND:20261102T213000Z
 LOCATION:RT 147
-DTSTART:20261102T161000Z
+DTSTART:20261102T201000Z
 SUMMARY:Maximiliano Machado
-UID:ECO_SEMINAR-20c2ca98-505b-55e2-a1fa-a84f6eeb7bae
+UID:ECO_SEMINAR-697e3741-00e8-5d31-80c5-e362012fe5c9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
@@ -570,12 +570,12 @@ UID:ECO_SEMINAR-4e4895ac-2266-56c7-b493-b627b46ae9ee
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of California Los Angeles\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://filipobradovic.com/\n
+DESCRIPTION:<b>Title:</b> <a href="https://filipobradovic.com/uploads/Obradovic_Ziegler.pdf">Knowing Less After a Diagnostic Test: Dilation in Clinical Decision-Making(joint with Gabriel Ziegler)</a>\n<b>Institution:</b> University of California Los Angeles\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://filipobradovic.com/\n
 DTEND:20261106T203000Z
 LOCATION:GE 106
 DTSTART:20261106T191000Z
 SUMMARY:Filip Obradovic
-UID:ECO_SEMINAR-b04b01a8-4e8e-5e5b-a964-da574e0778ae
+UID:ECO_SEMINAR-46311935-d5b4-5f57-be18-b80705b33f60
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
