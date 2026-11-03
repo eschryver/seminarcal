@@ -507,21 +507,21 @@ UID:ECO_SEMINAR-18784387-71b9-5f41-8a9a-16bc12880b8c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.nber.org/papers/w35644">Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy(joint with Daron Acemoglu\,  Guillermo Cruces\, Martin Fiszbein\, Gaston Garc)</a>\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
 DTEND:20261103T203000Z
 LOCATION:GE 106
 DTSTART:20261103T191000Z
 SUMMARY:Nicolás Ajzenman
-UID:ECO_SEMINAR-3e0b8484-6932-5694-96b0-140c6302c7e4
+UID:ECO_SEMINAR-0b7c0188-926d-5653-aaa0-e06a2849f5e7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
-DESCRIPTION:<b>Title:</b> Sequential Screening with Limited Commitment\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DESCRIPTION:<b>Title:</b> Sequential Screening with Limited Commitment and Valuation Uncertainty\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
 DTEND:20261104T180000Z
 LOCATION:GE 106
 DTSTART:20261104T171000Z
 SUMMARY:Ding Li
-UID:ECO_SEMINAR-2750438b-8878-52a3-8c89-e55167e01bd2
+UID:ECO_SEMINAR-251b84c4-fa48-5f80-8e3a-f2d94700a5d7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
@@ -588,12 +588,12 @@ UID:ECO_SEMINAR-f69c4493-0cc5-56e2-8967-711288b2dd2f
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
+DESCRIPTION:<b>Title:</b> Segmentation and Returns on Rental Housing(joint with Jessie Handbury and Samuel Hughes)\n<b>Institution:</b> University of Pennsylvania\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> \n<b>Speaker link:</b> https://sites.google.com/view/benkeys/home\n
 DTEND:20261110T170000Z
 LOCATION:RT 157
 DTSTART:20261110T154000Z
 SUMMARY:Benjamin Keys
-UID:ECO_SEMINAR-d04defff-c8ae-5887-aaca-e0d845b4dc7b
+UID:ECO_SEMINAR-13f5ad6c-a891-55e5-bd40-3bec2a33e297
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
@@ -639,6 +639,15 @@ LOCATION:GE 106
 DTSTART:20261111T191000Z
 SUMMARY:Elisabeth Kempf
 UID:ECO_SEMINAR-349159c8-5b2a-5cb7-9179-e46c7d605d37
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Urban and real estate economics
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Chicago\, Booth School of Business\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> Stephan Heblich\n<b>Speaker link:</b> https://www.milena-almagro.com/\n
+DTEND:20261111T220000Z
+LOCATION:GE 106
+DTSTART:20261111T204000Z
+SUMMARY:Milena Almagro Garcia
+UID:ECO_SEMINAR-54ff3f05-e631-509f-a2ba-bd6f1054852b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -891,6 +900,15 @@ LOCATION:GE 106
 DTSTART:20261203T191000Z
 SUMMARY:Larasati Wulandari
 UID:ECO_SEMINAR-242d4bb9-5257-5db3-915e-c700ce485ec6
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Empirical microeconomics
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Rochester\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Kory Kroft\, Adriano Macedo\n<b>Speaker link:</b> https://simon.rochester.edu/faculty/elena-prager\n
+DTEND:20261203T213000Z
+LOCATION:GE 106
+DTSTART:20261203T201000Z
+SUMMARY:Elena Prager
+UID:ECO_SEMINAR-ee5d6449-57ec-5d77-bda4-3cc823a067ba
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
