@@ -579,12 +579,12 @@ UID:ECO_SEMINAR-46311935-d5b4-5f57-be18-b80705b33f60
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Stanford University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://rebekahanne.github.io/\n
+DESCRIPTION:<b>Title:</b> How On-Demand Inputs Change Firm Production and Business Dynamism: The Case of Cloud Computing\n<b>Institution:</b> Stanford University\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://rebekahanne.github.io/\n
 DTEND:20261109T213000Z
 LOCATION:RT 147
 DTSTART:20261109T201000Z
 SUMMARY:Rebekah Dix
-UID:ECO_SEMINAR-f69c4493-0cc5-56e2-8967-711288b2dd2f
+UID:ECO_SEMINAR-7f2bc53d-0878-5ff6-8e57-ff5e57e17e27
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
@@ -597,12 +597,12 @@ UID:ECO_SEMINAR-13f5ad6c-a891-55e5-bd40-3bec2a33e297
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Queen's University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://shota2.github.io/\n
+DESCRIPTION:<b>Title:</b> <a href="https://shota2.github.io/research/investment.pdf">Mechanism Design for Ad-Supported Platforms(joint with Doh-Shin Jeon\, Byung-Cheol Kim)</a>\n<b>Institution:</b> Queen's University\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://shota2.github.io/\n
 DTEND:20261110T173000Z
 LOCATION:GE 106
 DTSTART:20261110T161000Z
 SUMMARY:Shota Ichihashi
-UID:ECO_SEMINAR-74305c87-46ae-5416-9e42-e815ec66b6c4
+UID:ECO_SEMINAR-e536a452-cf6f-591a-b89b-dd168d8baaf3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
@@ -615,21 +615,21 @@ UID:ECO_SEMINAR-1c76cbd2-9e2e-5401-93af-81f771cd3884
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DESCRIPTION:<b>Title:</b> Self-Sacrifice and Credibility in Cheap Talk\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
 DTEND:20261111T180000Z
 LOCATION:GE 106
 DTSTART:20261111T171000Z
 SUMMARY:Sina Kavuncu
-UID:ECO_SEMINAR-ae8788c8-fb10-5069-94ea-c23b95b4c8f7
+UID:ECO_SEMINAR-a9b23fc3-f340-53a4-baca-e0a232a18391
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
+DESCRIPTION:<b>Title:</b> Trade and Welfare under Oligopolistic Competition(joint with Pol Antràs and Daniel Ramos-Menchelli)\n<b>Institution:</b> Princeton University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/site/edumoralescasado/\n
 DTEND:20261111T200000Z
 LOCATION:RT 1065
 DTSTART:20261111T183000Z
 SUMMARY:Eduardo Morales
-UID:ECO_SEMINAR-5916cf79-7ee9-58f6-8411-0a6ddc5ebdbd
+UID:ECO_SEMINAR-d5f5c5f6-0c21-50f1-a16f-6bdb212b0e29
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
@@ -641,13 +641,13 @@ SUMMARY:Elisabeth Kempf
 UID:ECO_SEMINAR-349159c8-5b2a-5cb7-9179-e46c7d605d37
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Urban and real estate economics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Chicago\, Booth School of Business\n<b>Series:</b> Urban and real estate economics\n<b>Organizers:</b> Stephan Heblich\n<b>Speaker link:</b> https://www.milena-almagro.com/\n
+CATEGORIES:ECO_SEMINAR,Special lecture
+DESCRIPTION:<b>Title:</b> Data-Driven Nests(joint with Kenneth Lai and Elena Manresa)\n<b>Institution:</b> Chicago Booth School of Business\n<b>Series:</b> Special lecture\n<b>Organizers:</b> Stephan Heblich\, Adriano Macedo\n<b>Speaker link:</b> https://www.milena-almagro.com/\n
 DTEND:20261111T220000Z
 LOCATION:GE 106
 DTSTART:20261111T204000Z
 SUMMARY:Milena Almagro Garcia
-UID:ECO_SEMINAR-54ff3f05-e631-509f-a2ba-bd6f1054852b
+UID:ECO_SEMINAR-9d4396d6-e9e1-51c2-b16c-926695269b7d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -804,12 +804,12 @@ UID:ECO_SEMINAR-25bed761-e6e0-58de-8207-32b0e7354c58
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
+DESCRIPTION:<b>Title:</b> Procurement Contracting and Product-Market Competition\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
 DTEND:20261125T180000Z
 LOCATION:GE 106
 DTSTART:20261125T171000Z
 SUMMARY:Carmen Whiteway
-UID:ECO_SEMINAR-87c9f02f-4e78-545b-83cb-6106111569f5
+UID:ECO_SEMINAR-c24bcd51-f66f-5b42-80b2-0bd3b01dbeaf
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
