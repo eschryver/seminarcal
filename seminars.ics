@@ -606,12 +606,12 @@ UID:ECO_SEMINAR-e536a452-cf6f-591a-b89b-dd168d8baaf3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
+DESCRIPTION:<b>Title:</b> The Race between AI Costs and Capabilities: Task-Based Automation When Machines Improve\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
 DTEND:20261111T170000Z
 LOCATION:RT 1065
 DTSTART:20261111T153000Z
 SUMMARY:Danial Lashkari
-UID:ECO_SEMINAR-1c76cbd2-9e2e-5401-93af-81f771cd3884
+UID:ECO_SEMINAR-37f8f552-de3f-577a-adc9-01a432c72893
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
@@ -768,12 +768,12 @@ UID:ECO_SEMINAR-b2c01f96-1356-5385-898f-65b95ce5d1b2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.chicagobooth.edu/faculty/directory/h/lars-hansen\n
+DESCRIPTION:<b>Title:</b> <a href="https://larspeterhansen.org/wp-content/uploads/2026/10/Mitigation_10-6_main.pdf">Uncertainty\, Social Valuation\, and Climate Change Policy(joint with Michael Barnett\, William Brock\, and Hong Zhang)</a>\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.chicagobooth.edu/faculty/directory/h/lars-hansen\n
 DTEND:20261119T203000Z
 LOCATION:GE 106
 DTSTART:20261119T191000Z
 SUMMARY:Lars Peter Hansen
-UID:ECO_SEMINAR-d6cc1821-031f-5a93-9613-aa8aa2c7e6ab
+UID:ECO_SEMINAR-bfa795b5-936e-526b-bfba-67f93db8c3c2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
@@ -810,6 +810,15 @@ LOCATION:GE 106
 DTSTART:20261125T171000Z
 SUMMARY:Carmen Whiteway
 UID:ECO_SEMINAR-c24bcd51-f66f-5b42-80b2-0bd3b01dbeaf
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Macroeconomics
+DESCRIPTION:<b>Title:</b> TBGA\n<b>Institution:</b> WUSTL\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://philippgruebener.com/\n
+DTEND:20261126T173000Z
+LOCATION:GE 106
+DTSTART:20261126T161000Z
+SUMMARY:Philipp Grübener
+UID:ECO_SEMINAR-df68bd5f-87bf-5485-970b-2460a39094dc
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
