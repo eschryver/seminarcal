@@ -607,11 +607,11 @@ END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
 DESCRIPTION:<b>Title:</b> The Race between AI Costs and Capabilities: Task-Based Automation When Machines Improve\n<b>Institution:</b> Federal Reserve Bank of New York\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/danial-lashkari/home\n
-DTEND:20261111T170000Z
+DTEND:20261111T173000Z
 LOCATION:RT 1065
-DTSTART:20261111T153000Z
+DTSTART:20261111T160000Z
 SUMMARY:Danial Lashkari
-UID:ECO_SEMINAR-37f8f552-de3f-577a-adc9-01a432c72893
+UID:ECO_SEMINAR-62399626-351a-5f25-a980-3b516db611ed
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
@@ -633,7 +633,7 @@ UID:ECO_SEMINAR-d5f5c5f6-0c21-50f1-a16f-6bdb212b0e29
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
-DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26146">CEO Ideology and Global Trade(joint with Mancy Luo\, Margarita Tsoutsoura)</a>\n<b>Institution:</b> Harvard Business School\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Empirical microeconomics\, Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/elikempf/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26146">CEO Ideology and Global Trade(joint with Mancy Luo\, Margarita Tsoutsoura)</a>\n<b>Institution:</b> Harvard Business School\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\, Runjing Lu\n<b>Speaker link:</b> https://sites.google.com/site/elikempf/\n
 DTEND:20261111T203000Z
 LOCATION:GE 106
 DTSTART:20261111T191000Z
@@ -696,12 +696,12 @@ UID:ECO_SEMINAR-e7e38e2a-eb61-539e-b918-e1ada7e1dfe2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> California Institute of Technology\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Yao Luo\, Max Tabord-Meehan\n<b>Speaker link:</b> https://sites.google.com/site/yixinpage/\n
+DESCRIPTION:<b>Title:</b> <a href="https://arxiv.org/pdf/2411.01799">Estimating Nonseparable Selection Models: A Functional Contraction Approach(joint with Fan Wu)</a>\n<b>Institution:</b> California Institute of Technology\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Yao Luo\, Max Tabord-Meehan\n<b>Speaker link:</b> https://sites.google.com/site/yixinpage/\n
 DTEND:20261113T203000Z
 LOCATION:GE 106
 DTSTART:20261113T191000Z
 SUMMARY:Yi Xin
-UID:ECO_SEMINAR-640907ee-04d5-5209-aa61-bd12685b9ff2
+UID:ECO_SEMINAR-606bf7e7-85b7-57df-8321-f844a7e46cb8
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -723,12 +723,12 @@ UID:ECO_SEMINAR-298feb92-015b-577b-81c5-1e3fea4418e2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
+DESCRIPTION:<b>Title:</b> The AGI Race and Existential Risk(joint with Ethan Bueno de Mesquita\, Mattias Polborn)\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
 DTEND:20261117T173000Z
 LOCATION:GE 106
 DTSTART:20261117T161000Z
 SUMMARY:Wiola Dziuda
-UID:ECO_SEMINAR-49247cc6-c7bc-57c2-9f9c-b51a68f33231
+UID:ECO_SEMINAR-acfeb59b-51fe-5e10-9574-a202fbbb5128
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
