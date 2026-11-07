@@ -12,7 +12,7 @@ UID:ECO_SEMINAR-f743d144-0cea-58d7-9eb0-f43939034cb0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> When Low-Carbon Incentives Do Not Reduce Emissions: Evidence from Brazil’s RenovaBio\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> When Low-Carbon Incentives Do Not Reduce Emissions: Evidence from Brazil’s RenovaBio\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20260910T174500Z
 LOCATION:GE 106
 DTSTART:20260910T164500Z
@@ -39,7 +39,7 @@ UID:ECO_SEMINAR-555abefb-68f6-52f0-a571-cd83bcfdcef1
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> The American Dream over the Long Run\n<b>Institution:</b> Stanford University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Kay Saunders\, Tianyi Wang\n<b>Speaker link:</b> https://ranabr.people.stanford.edu/\n
+DESCRIPTION:<b>Title:</b> The American Dream over the Long Run\n<b>Institution:</b> Stanford University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Tianyi Wang\n<b>Speaker link:</b> https://ranabr.people.stanford.edu/\n
 DTEND:20260915T193000Z
 LOCATION:GE 106
 DTSTART:20260915T181000Z
@@ -48,7 +48,7 @@ UID:ECO_SEMINAR-16eb3be3-3dda-55d2-95e2-a0a4dbf920d7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> Assortment Policy and Fresh Produce: How Far Can It Move Consumption?\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Assortment Policy and Fresh Produce: How Far Can It Move Consumption?\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20260917T174500Z
 LOCATION:GE 106
 DTSTART:20260917T164500Z
@@ -75,7 +75,7 @@ UID:ECO_SEMINAR-f3c0ecae-89b6-545c-a789-c903476a78ca
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea\n<b>Institution:</b> KU Leuven\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://sites.google.com/site/frankverbo/home\n
+DESCRIPTION:<b>Title:</b> Which Green Technology to Subsidize? Evidence from Electric Vehicles in South Korea\n<b>Institution:</b> KU Leuven\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://sites.google.com/site/frankverbo/home\n
 DTEND:20260921T203000Z
 LOCATION:RT 147
 DTSTART:20260921T191000Z
@@ -120,7 +120,7 @@ UID:ECO_SEMINAR-db612896-f65c-55d8-a1f7-aacdc2f94c39
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> The Impact of On-Street Charging Stations on EV Adoption(joint with Hugo Cordeau\, Katalin Springel)\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Impact of On-Street Charging Stations on EV Adoption(joint with Hugo Cordeau\, Katalin Springel)\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20260924T183500Z
 LOCATION:GE 106
 DTSTART:20260924T181000Z
@@ -183,7 +183,7 @@ UID:ECO_SEMINAR-8eb29120-5ac3-511e-8169-1949271ab531
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Financial economics
-DESCRIPTION:<b>Title:</b> <a href="https://conference.nber.org/conf_papers/f239726/f239726.pdf">Deposit Competition Beyond Rates(joint with Matteo Benetton\, Benjamin Hebert)</a>\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/timothymcquade/home\n
+DESCRIPTION:<b>Title:</b> <a href="https://conference.nber.org/conf_papers/f239726/f239726.pdf">Deposit Competition Beyond Rates(joint with Matteo Benetton\, Benjamin Hebert)</a>\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Financial economics\n<b>Organizers:</b> Michael Boutros\n<b>Speaker link:</b> https://sites.google.com/view/timothymcquade/home\n
 DTEND:20260930T193000Z
 LOCATION:GE 106
 DTSTART:20260930T181000Z
@@ -201,7 +201,7 @@ UID:ECO_SEMINAR-b25349f5-9fcd-5cbe-a4ca-747f18a3f26b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261001T174500Z
 LOCATION:GE 106
 DTSTART:20261001T164500Z
@@ -210,7 +210,7 @@ UID:ECO_SEMINAR-07b9652a-d2af-5e6a-a884-6c473b902b39
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Economic disparities in a warming world: a meta-analysis of GDP impacts\n<b>Institution:</b> University of Delaware\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://existencia.org/pro/\n
+DESCRIPTION:<b>Title:</b> Economic disparities in a warming world: a meta-analysis of GDP impacts\n<b>Institution:</b> University of Delaware\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://existencia.org/pro/\n
 DTEND:20261001T193000Z
 LOCATION:GE 106
 DTSTART:20261001T181000Z
@@ -264,7 +264,7 @@ UID:ECO_SEMINAR-b0942a64-070a-5529-b021-c66be1454d3a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> http://rotman.utoronto.ca/programs/phd-program/phd-student-profiles/jordan-hutchings/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> http://rotman.utoronto.ca/programs/phd-program/phd-student-profiles/jordan-hutchings/\n
 DTEND:20261008T174500Z
 LOCATION:GE 106
 DTSTART:20261008T164500Z
@@ -336,7 +336,7 @@ UID:ECO_SEMINAR-64f7a16e-5d85-55ff-a3ad-47174f7f1b31
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Insure or Adapt? Household Balance Sheets and the Flood Risk Teadeoff\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Insure or Adapt? Household Balance Sheets and the Flood Risk Teadeoff\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261015T190000Z
 LOCATION:GE 106
 DTSTART:20261015T181000Z
@@ -345,7 +345,7 @@ UID:ECO_SEMINAR-a2f74a6a-6128-565a-88b9-4071b57af5d0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261015T203000Z
 LOCATION:GE 106
 DTSTART:20261015T193000Z
@@ -399,7 +399,7 @@ UID:ECO_SEMINAR-acd57ed5-5f89-502c-ad4d-9264a4b980c0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/xiaoxi-joyce-wang/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/xiaoxi-joyce-wang/\n
 DTEND:20261022T174500Z
 LOCATION:GE 106
 DTSTART:20261022T164500Z
@@ -408,7 +408,7 @@ UID:ECO_SEMINAR-76a15435-3e85-5429-a03c-d1cf822219e3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Does Carbon Pricing Clean the Air? Evidence from China’s Pilot ETS\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Does Carbon Pricing Clean the Air? Evidence from China’s Pilot ETS\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261022T190000Z
 LOCATION:GE 106
 DTSTART:20261022T181000Z
@@ -453,7 +453,7 @@ UID:ECO_SEMINAR-a880b40a-da57-530d-860d-0caeca70b80e
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261029T171500Z
 LOCATION:GE 106
 DTSTART:20261029T164500Z
@@ -462,7 +462,7 @@ UID:ECO_SEMINAR-18d2e087-5a44-5ae1-a27d-03eb33192257
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261029T174500Z
 LOCATION:GE 106
 DTSTART:20261029T171500Z
@@ -471,7 +471,7 @@ UID:ECO_SEMINAR-b27fb030-ed8f-5d5f-ae79-9bc0fd15a6df
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> The Carbon Paradox of Clean Incentives: Evidence from Ethanol\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Carbon Paradox of Clean Incentives: Evidence from Ethanol\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261029T193000Z
 LOCATION:GE 106
 DTSTART:20261029T181000Z
@@ -507,7 +507,7 @@ UID:ECO_SEMINAR-18784387-71b9-5f41-8a9a-16bc12880b8c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> <a href="https://www.nber.org/papers/w35644">Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy(joint with Daron Acemoglu\,  Guillermo Cruces\, Martin Fiszbein\, Gaston Garc)</a>\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://www.ajzenman.com/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.nber.org/papers/w35644">Where the Grass Seems Greener: Economic Misperceptions and Support for Democracy(joint with Daron Acemoglu\,  Guillermo Cruces\, Martin Fiszbein\, Gaston Garc)</a>\n<b>Institution:</b> McGill University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\n<b>Speaker link:</b> https://www.ajzenman.com/\n
 DTEND:20261103T203000Z
 LOCATION:GE 106
 DTSTART:20261103T191000Z
@@ -543,7 +543,7 @@ UID:ECO_SEMINAR-9a226ff4-eb05-545d-9686-b94949810345
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261105T184500Z
 LOCATION:GE 106
 DTSTART:20261105T174500Z
@@ -552,7 +552,7 @@ UID:ECO_SEMINAR-5123e66f-8abd-53a4-82d9-7e5000d655ed
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Locating Climate-Vulnerable Populations by Satellite\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.landfood.ubc.ca/jonathan-proctor/\n
+DESCRIPTION:<b>Title:</b> Locating Climate-Vulnerable Populations by Satellite\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.landfood.ubc.ca/jonathan-proctor/\n
 DTEND:20261105T203000Z
 LOCATION:GE 106
 DTSTART:20261105T191000Z
@@ -660,7 +660,7 @@ UID:ECO_SEMINAR-5d3dcaa3-5171-5cb2-bd42-a13a45d69d58
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T181500Z
 LOCATION:GE 106
 DTSTART:20261112T174500Z
@@ -669,7 +669,7 @@ UID:ECO_SEMINAR-639383b8-c0cc-5c66-9070-c618ba720674
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T184500Z
 LOCATION:GE 106
 DTSTART:20261112T181500Z
@@ -678,7 +678,7 @@ UID:ECO_SEMINAR-1ad39c03-e576-54a9-9b60-b6029ea39b3d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Car and Trip Choices\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Car and Trip Choices\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T193500Z
 LOCATION:GE 106
 DTSTART:20261112T191000Z
@@ -687,7 +687,7 @@ UID:ECO_SEMINAR-9390cd48-4202-55b5-9260-1b0d698bb442
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> How Public Policy Shapes Timber Harvesting Dynamics: Evidence from British Columbia\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> How Public Policy Shapes Timber Harvesting Dynamics: Evidence from British Columbia\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261112T200000Z
 LOCATION:GE 106
 DTSTART:20261112T193500Z
@@ -750,7 +750,7 @@ UID:ECO_SEMINAR-74b446a6-8d88-57d8-8315-a0796525ebf7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261119T181500Z
 LOCATION:GE 100
 DTSTART:20261119T174500Z
@@ -759,7 +759,7 @@ UID:ECO_SEMINAR-2e6a0d63-f31e-5b65-a2a7-6dac7d2849b0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/ziwei-wang/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/ziwei-wang/\n
 DTEND:20261119T184500Z
 LOCATION:GE 106
 DTSTART:20261119T181500Z
@@ -768,7 +768,7 @@ UID:ECO_SEMINAR-b2c01f96-1356-5385-898f-65b95ce5d1b2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> <a href="https://larspeterhansen.org/wp-content/uploads/2026/10/Mitigation_10-6_main.pdf">Uncertainty\, Social Valuation\, and Climate Change Policy(joint with Michael Barnett\, William Brock\, and Hong Zhang)</a>\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.chicagobooth.edu/faculty/directory/h/lars-hansen\n
+DESCRIPTION:<b>Title:</b> <a href="https://larspeterhansen.org/wp-content/uploads/2026/10/Mitigation_10-6_main.pdf">Uncertainty\, Social Valuation\, and Climate Change Policy(joint with Michael Barnett\, William Brock\, and Hong Zhang)</a>\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.chicagobooth.edu/faculty/directory/h/lars-hansen\n
 DTEND:20261119T203000Z
 LOCATION:GE 106
 DTSTART:20261119T191000Z
@@ -822,7 +822,7 @@ UID:ECO_SEMINAR-df68bd5f-87bf-5485-970b-2460a39094dc
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261126T181500Z
 LOCATION:GE 106
 DTSTART:20261126T174500Z
@@ -831,7 +831,7 @@ UID:ECO_SEMINAR-78ae65b7-c74f-5a35-a84e-cd14f0e13e5d
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261126T184500Z
 LOCATION:GE 106
 DTSTART:20261126T181500Z
@@ -840,7 +840,7 @@ UID:ECO_SEMINAR-f9f7688e-070d-53a7-8b58-e4cf1d804f6f
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> Transportation Network Investment Under Climate Risk\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Transportation Network Investment Under Climate Risk\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261126T200000Z
 LOCATION:GE 106
 DTSTART:20261126T191000Z
@@ -876,12 +876,12 @@ UID:ECO_SEMINAR-a16c959e-9a9a-58b8-af6d-9eb363f67bb3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Behavioural economics\, Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> Sequential Job Search under Ego-Relevant versus Ego-Irrelevant Uncertainty\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Behavioural economics\, Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261202T180000Z
 LOCATION:GE 106
 DTSTART:20261202T171000Z
 SUMMARY:Shanshan Liu
-UID:ECO_SEMINAR-c8fdb3df-faa9-5364-a7b7-c94e3a36ee23
+UID:ECO_SEMINAR-b34b067b-6515-5f84-b6b7-6e8fc704f446
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -894,7 +894,7 @@ UID:ECO_SEMINAR-2a13c470-29ad-5c35-86ad-ea1f29b73fd9
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261203T181500Z
 LOCATION:GE 106
 DTSTART:20261203T174500Z
@@ -903,7 +903,7 @@ UID:ECO_SEMINAR-6a449964-2a63-5e5e-b62d-e7c66034f363
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261203T200000Z
 LOCATION:GE 106
 DTSTART:20261203T191000Z
@@ -966,7 +966,7 @@ UID:ECO_SEMINAR-891aeec2-daef-5260-8ac2-7e19e100222c
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\, Kay Saunders\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/shiqi-xiang/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Mitsuru Igami\n<b>Speaker link:</b> https://www.rotman.utoronto.ca/programs/phd-program/phd-student-profiles/shiqi-xiang/\n
 DTEND:20261210T181500Z
 LOCATION:GE 106
 DTSTART:20261210T174500Z
@@ -975,7 +975,7 @@ UID:ECO_SEMINAR-e6af3b20-beaa-59e9-93b2-3b7bec984552
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> The Effect of Local Elections on Deforestation\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Effect of Local Elections on Deforestation\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261210T200000Z
 LOCATION:GE 106
 DTSTART:20261210T191000Z
@@ -993,7 +993,7 @@ UID:ECO_SEMINAR-43842001-665e-57e6-a173-f79e7e1f0450
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> http://www.tammacarleton.com/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> http://www.tammacarleton.com/\n
 DTEND:20270204T203000Z
 LOCATION:GE 106
 DTSTART:20270204T191000Z
@@ -1002,7 +1002,7 @@ UID:ECO_SEMINAR-e64e9a56-4ef4-5d27-8c9f-4304faa3fda5
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Massachusetts Institute of Technology\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://economics.mit.edu/people/faculty/jacob-moscona\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Massachusetts Institute of Technology\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://economics.mit.edu/people/faculty/jacob-moscona\n
 DTEND:20270211T203000Z
 LOCATION:GE 106
 DTSTART:20270211T191000Z
@@ -1020,7 +1020,7 @@ UID:ECO_SEMINAR-024e06bd-6309-5d21-8c52-5505c666e7a0
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Illinois at Urbana-Champaign\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://deryugina.com/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Illinois at Urbana-Champaign\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://deryugina.com/\n
 DTEND:20270225T203000Z
 LOCATION:GE 106
 DTSTART:20270225T191000Z
@@ -1074,7 +1074,7 @@ UID:ECO_SEMINAR-985bd66b-055c-5928-a507-938188308e3b
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://sites.google.com/site/bkelseyjack\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://sites.google.com/site/bkelseyjack\n
 DTEND:20270311T203000Z
 LOCATION:GE 106
 DTSTART:20270311T191000Z
@@ -1083,7 +1083,7 @@ UID:ECO_SEMINAR-46bdf984-5566-5e4f-8f57-60bc0850ccda
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Stanford University\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://shanjunli6.github.io/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Stanford University\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Industrial organization\, Yizhou Jin\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://shanjunli6.github.io/\n
 DTEND:20270315T203000Z
 LOCATION:RT 147
 DTSTART:20270315T191000Z
@@ -1191,7 +1191,7 @@ UID:ECO_SEMINAR-f38668a4-766a-52b7-95c4-f9014cd7bd28
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Kay Saunders\, Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://w-reed-walker.com/\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> UC Berkeley\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://w-reed-walker.com/\n
 DTEND:20270408T193000Z
 LOCATION:GE 106
 DTSTART:20270408T181000Z
@@ -1209,7 +1209,7 @@ UID:ECO_SEMINAR-04d7695a-be0b-5fd5-a0c8-5f3bc9494e8e
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Simon Fraser University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\, Kay Saunders\n<b>Speaker link:</b> https://sites.google.com/view/fernandoaragon/home\n
+DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> Simon Fraser University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Robert Gillezeau\n<b>Speaker link:</b> https://sites.google.com/view/fernandoaragon/home\n
 DTEND:20270413T193000Z
 LOCATION:GE 106
 DTSTART:20270413T181000Z
