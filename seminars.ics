@@ -732,12 +732,12 @@ UID:ECO_SEMINAR-acfeb59b-51fe-5e10-9574-a202fbbb5128
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> MIT\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Yoram Halevy\n<b>Speaker link:</b> https://jesc.huji.ac.il/Guy_Ishai/Ishai.html\n
+DESCRIPTION:<b>Title:</b> <a href="https://drive.google.com/file/d/10CQ82a6P0G3jm1pt7zRnjj_ty6JgSqTQ/view">Belief Elicitation Using Binary-Choice Lists</a>\n<b>Institution:</b> MIT\n<b>Series:</b> Behavioural economics\n<b>Organizers:</b> Theory workshop\, Yoram Halevy\n<b>Speaker link:</b> https://jesc.huji.ac.il/Guy_Ishai/Ishai.html\n
 DTEND:20261118T173000Z
 LOCATION:GE 106
 DTSTART:20261118T161000Z
 SUMMARY:Guy Ishai
-UID:ECO_SEMINAR-7255b604-b3ea-5deb-91de-553f709a6c9d
+UID:ECO_SEMINAR-71b1f428-ccaa-54b0-bd16-1dfac2b9faf3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
@@ -903,12 +903,12 @@ UID:ECO_SEMINAR-6a449964-2a63-5e5e-b62d-e7c66034f363
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Climate economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> TBC\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
+DESCRIPTION:<b>Title:</b> The Hidden Costs of the Plastic Waste Trade\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Climate economics\n<b>Organizers:</b> Christoph Semken\, Jeffrey Sun\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261203T200000Z
 LOCATION:GE 106
 DTSTART:20261203T191000Z
 SUMMARY:Larasati Wulandari
-UID:ECO_SEMINAR-242d4bb9-5257-5db3-915e-c700ce485ec6
+UID:ECO_SEMINAR-e04170ef-2f50-52f8-bf16-ec4b35db0211
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
