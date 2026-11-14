@@ -713,15 +713,6 @@ SUMMARY:Cameron Chahal
 UID:ECO_SEMINAR-d77ef4f6-85a4-58ff-bfdf-641672325c8b
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:Development economics,ECO_SEMINAR
-DESCRIPTION:<b>Title:</b> <a href="https://miguelortizp.github.io/pdf/FearTraps_OrtizAtajiri.pdf">Fear Traps: Evidence from Segregated Markets in Nigeria</a>\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://miguelortizp.github.io/\n
-DTEND:20261117T173000Z
-LOCATION:GE 106
-DTSTART:20261117T161000Z
-SUMMARY:Miguel Ortiz
-UID:ECO_SEMINAR-298feb92-015b-577b-81c5-1e3fea4418e2
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Economic theory
 DESCRIPTION:<b>Title:</b> The AGI Race and Existential Risk(joint with Ethan Bueno de Mesquita\, Mattias Polborn)\n<b>Institution:</b> University of Chicago Harris School of Public Policy\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://sites.google.com/site/dziudawiola/home?authuser=0\n
 DTEND:20261117T173000Z
@@ -729,6 +720,15 @@ LOCATION:GE 106
 DTSTART:20261117T161000Z
 SUMMARY:Wiola Dziuda
 UID:ECO_SEMINAR-acfeb59b-51fe-5e10-9574-a202fbbb5128
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:Development economics,ECO_SEMINAR
+DESCRIPTION:<b>Title:</b> <a href="https://miguelortizp.github.io/pdf/FearTraps_OrtizAtajiri.pdf">Fear Traps: Evidence from Segregated Markets in Nigeria</a>\n<b>Institution:</b> University of British Columbia\n<b>Series:</b> Development economics\n<b>Organizers:</b> Ceren Baysan\, Arthur Blouin\n<b>Speaker link:</b> https://miguelortizp.github.io/\n
+DTEND:20261117T203000Z
+LOCATION:GE 106
+DTSTART:20261117T191000Z
+SUMMARY:Miguel Ortiz
+UID:ECO_SEMINAR-b3d608d6-c876-5e5f-87dd-d652fa908df6
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:Behavioural economics,ECO_SEMINAR
