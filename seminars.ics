@@ -744,9 +744,9 @@ CATEGORIES:ECO_SEMINAR,Macroeconomics
 DESCRIPTION:<b>Title:</b> Grafting\n<b>Institution:</b> Cornell University\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://ezraoberfield.github.io\n
 DTEND:20261119T173000Z
 LOCATION:GE 106
-DTSTART:20261119T161000Z
+DTSTART:20261119T160000Z
 SUMMARY:Ezra Oberfield
-UID:ECO_SEMINAR-16417946-c723-58ce-b505-0f8c56a090a7
+UID:ECO_SEMINAR-0cb64077-5e93-57d2-807b-eb890547ebbd
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -777,21 +777,21 @@ UID:ECO_SEMINAR-bfa795b5-936e-526b-bfba-67f93db8c3c2
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Econometrics
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Washington\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://econ.washington.edu/people/yanqin-fan\n
+DESCRIPTION:<b>Title:</b> <a href="https://arxiv.org/pdf/2505.00256">Policy Learning with α-Expected Welfare(joint with Yuan Qi\, Gaoqian Xu)</a>\n<b>Institution:</b> University of Washington\n<b>Series:</b> Econometrics\n<b>Organizers:</b> Jiaying Gu\, Max Tabord-Meehan\n<b>Speaker link:</b> https://econ.washington.edu/people/yanqin-fan\n
 DTEND:20261120T203000Z
 LOCATION:Online
 DTSTART:20261120T191000Z
 SUMMARY:Yanqin Fan
-UID:ECO_SEMINAR-2f88a93c-3fa2-54ce-b1ea-f1a067ed0c1a
+UID:ECO_SEMINAR-cdf2e754-1420-5103-91f7-b57d73691e64
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudent/1002691\n
+DESCRIPTION:<b>Title:</b> Assortment Policy: How Far Can It Move Consumption?\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudent/1002691\n
 DTEND:20261123T213000Z
 LOCATION:RT 147
 DTSTART:20261123T201000Z
 SUMMARY:Nanxi Fu
-UID:ECO_SEMINAR-315e1bfa-9be2-5c3c-b509-cf5ec086a46c
+UID:ECO_SEMINAR-e947acb8-dca6-5bed-a45b-1c5f03b10a30
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
