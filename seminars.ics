@@ -741,12 +741,12 @@ UID:ECO_SEMINAR-71b1f428-ccaa-54b0-bd16-1dfac2b9faf3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> Grafting\n<b>Institution:</b> Cornell University\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://ezraoberfield.github.io\n
+DESCRIPTION:<b>Title:</b> <a href="https://ezraoberfield.github.io/Grafting.pdf">Grafting</a>\n<b>Institution:</b> Cornell University\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://ezraoberfield.github.io\n
 DTEND:20261119T173000Z
 LOCATION:GE 106
 DTSTART:20261119T160000Z
 SUMMARY:Ezra Oberfield
-UID:ECO_SEMINAR-0cb64077-5e93-57d2-807b-eb890547ebbd
+UID:ECO_SEMINAR-62cffed7-42fc-5943-8c02-4e750fe8ac3a
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
