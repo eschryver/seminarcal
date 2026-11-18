@@ -857,6 +857,15 @@ SUMMARY:Kelly Foley
 UID:ECO_SEMINAR-224dcc80-d931-5c30-be89-978d93b44d5a
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,International trade
+DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/yuhei-miyauchi/home\n
+DTEND:20261127T203000Z
+LOCATION:GE 106
+DTSTART:20261127T190000Z
+SUMMARY:Yuhei Miyauchi
+UID:ECO_SEMINAR-b60a3483-d171-5a04-a353-f4d2e57229c0
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
 DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002356\n
 DTEND:20261130T213000Z
