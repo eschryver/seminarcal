@@ -875,15 +875,6 @@ SUMMARY:Sixia Xi
 UID:ECO_SEMINAR-d5b10a26-35bd-5fbb-9f5f-1ba64fcb4a9d
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:ECO_SEMINAR,Economic theory
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Pittsburgh\n<b>Series:</b> Economic theory\n<b>Organizers:</b> Itai Arieli\, Zi Yang Kang\n<b>Speaker link:</b> https://www.beixizhou.com/\n
-DTEND:20261201T173000Z
-LOCATION:GE 106
-DTSTART:20261201T161000Z
-SUMMARY:Beixi Zhou
-UID:ECO_SEMINAR-a16c959e-9a9a-58b8-af6d-9eb363f67bb3
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
 DESCRIPTION:<b>Title:</b> Sequential Job Search under Ego-Relevant versus Ego-Irrelevant Uncertainty\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Behavioural economics\, Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudents/3\n
 DTEND:20261202T180000Z
