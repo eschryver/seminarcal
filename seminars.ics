@@ -803,6 +803,15 @@ SUMMARY:Seohee Kim
 UID:ECO_SEMINAR-dbcca1a1-2ecc-5b17-a7fe-39a02c61d214
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:ECO_SEMINAR,Empirical microeconomics
+DESCRIPTION:<b>Title:</b> The Market for Antibiotics: Sorting\, Signals\, and Regulation in Western Kenya(joint with Michael Dinerstein and Younggeun Yoo)\n<b>Institution:</b> University of Chicago\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Arthur Blouin\, Robert Gillezeau\, Adriano Macedo\, Roman Zarate\n<b>Speaker link:</b> https://sites.google.com/view/annekaring/home?pli=1&authuser=0\n
+DTEND:20261124T203000Z
+LOCATION:GE 106
+DTSTART:20261124T191000Z
+SUMMARY:Anne Karing
+UID:ECO_SEMINAR-f6453234-357a-5796-9f6c-975f0e48f2e6
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
 DESCRIPTION:<b>Title:</b> Procurement Contracting and Product-Market Competition\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Theory workshop\n<b>Organizers:</b> Yoram Halevy\, Xianwen Shi\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/i/person/gradStudents\n
 DTEND:20261125T180000Z
