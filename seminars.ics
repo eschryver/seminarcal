@@ -858,21 +858,21 @@ UID:ECO_SEMINAR-b29fe345-4acc-5d55-b672-d6bba6f1a893
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> University of Saskatchewan\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Eva Vivalt\n<b>Speaker link:</b> https://www.kellyfoley.org/\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26020">Do Active Labour Market Programs Help Disadvantaged Populations? Evidence from Linked Income Assistance Records(joint with Vince Hopkins\, Sebastian Melo-Martin\, Ada Litvinov\, and Shan Wei)</a>\n<b>Institution:</b> University of Saskatchewan\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Eva Vivalt\n<b>Speaker link:</b> https://www.kellyfoley.org/\n
 DTEND:20261127T173000Z
 LOCATION:GE 106
 DTSTART:20261127T161000Z
 SUMMARY:Kelly Foley
-UID:ECO_SEMINAR-224dcc80-d931-5c30-be89-978d93b44d5a
+UID:ECO_SEMINAR-2c2d4f99-2e22-5d6d-9028-e8efdeaa3b77
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,International trade
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/yuhei-miyauchi/home\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.economics.utoronto.ca/index.php/index/research/downloadSeminarFile/26565">Optimal Dynamic Spatial Policy(joint with Eric Donald and Masao Fukui)</a>\n<b>Institution:</b> Boston University\n<b>Series:</b> International trade\n<b>Organizers:</b> Peter Morrow\n<b>Speaker link:</b> https://sites.google.com/view/yuhei-miyauchi/home\n
 DTEND:20261127T203000Z
 LOCATION:GE 106
 DTSTART:20261127T190000Z
 SUMMARY:Yuhei Miyauchi
-UID:ECO_SEMINAR-b60a3483-d171-5a04-a353-f4d2e57229c0
+UID:ECO_SEMINAR-ae3bccc1-33d8-532b-bbeb-9ead69a29afd
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
