@@ -822,12 +822,12 @@ UID:ECO_SEMINAR-c24bcd51-f66f-5b42-80b2-0bd3b01dbeaf
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Macroeconomics
-DESCRIPTION:<b>Title:</b> TBGA\n<b>Institution:</b> WUSTL\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://philippgruebener.com/\n
+DESCRIPTION:<b>Title:</b> Tax Progressivity\, Performance Pay\, and Search Frictions\n<b>Institution:</b> WUSTL\n<b>Series:</b> Macroeconomics\n<b>Organizers:</b> Sebastian Dyrda\n<b>Speaker link:</b> https://philippgruebener.com/\n
 DTEND:20261126T173000Z
 LOCATION:GE 106
 DTSTART:20261126T161000Z
 SUMMARY:Philipp Grübener
-UID:ECO_SEMINAR-df68bd5f-87bf-5485-970b-2460a39094dc
+UID:ECO_SEMINAR-4ca35ef2-22d2-51f3-864a-0f68b662ca95
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
@@ -876,12 +876,12 @@ UID:ECO_SEMINAR-ae3bccc1-33d8-532b-bbeb-9ead69a29afd
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Industrial organization
-DESCRIPTION:<b>Title:</b> TBA\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002356\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.dropbox.com/scl/fi/rb75ipotzvzff2h3nmnmm/jmp.pdf?rlkey=qxf6mu67jd906nj59nx4kegeg&st=ndprsr6l&e=1&dl=0">Collusion beyond Prices: Product Variety and Welfare in the LCD Panel Industry</a>\n<b>Institution:</b> University of Toronto\n<b>Series:</b> Industrial organization\n<b>Organizers:</b> Victor Aguirregabiria\n<b>Speaker link:</b> https://www.economics.utoronto.ca/index.php/index/person/gradStudent/1002356\n
 DTEND:20261130T213000Z
 LOCATION:RT 147
 DTSTART:20261130T201000Z
 SUMMARY:Sixia Xi
-UID:ECO_SEMINAR-d5b10a26-35bd-5fbb-9f5f-1ba64fcb4a9d
+UID:ECO_SEMINAR-b5e543f3-2281-5e79-b382-e4458c3a5680
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Theory workshop
