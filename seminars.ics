@@ -930,12 +930,12 @@ UID:ECO_SEMINAR-db87b0f1-5d17-539a-ac7d-e7d1ffc772e3
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Empirical microeconomics
-DESCRIPTION:<b>Title:</b> TBD\n<b>Institution:</b> Cornell University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Marlène Koffi\, Eva Vivalt\n<b>Speaker link:</b> https://economics.cornell.edu/michele-belot\n
+DESCRIPTION:<b>Title:</b> <a href="https://www.nber.org/papers/w34912">Online Buddies for Job Seekers: A Field Experiment(joint with de Koning\, Muller\, Engels\, Fouarge\, Keer\, Kircher\, Phlippen)</a>\n<b>Institution:</b> Cornell University\n<b>Series:</b> Empirical microeconomics\n<b>Organizers:</b> Marlène Koffi\, Eva Vivalt\n<b>Speaker link:</b> https://economics.cornell.edu/michele-belot\n
 DTEND:20261204T173000Z
 LOCATION:GE 106
 DTSTART:20261204T161000Z
 SUMMARY:Michèle Belot
-UID:ECO_SEMINAR-e7edc00b-42bd-544f-8891-a472ff933ba5
+UID:ECO_SEMINAR-da65fb08-a1ec-5a99-b9f8-aa8e7c3da7d7
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ECO_SEMINAR,Urban and real estate economics
